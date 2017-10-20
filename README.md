@@ -4,7 +4,7 @@
 
 # Web
 
-### **Roadmap - **[https://medium.freecodecamp.org/a-roadmap-to-becoming-a-web-developer-in-2017-b6ac3dddd0cf](https://medium.freecodecamp.org/a-roadmap-to-becoming-a-web-developer-in-2017-b6ac3dddd0cf)	
+### **[Roadmap](https://medium.freecodecamp.org/a-roadmap-to-becoming-a-web-developer-in-2017-b6ac3dddd0cf)**
 
 ### Essentials
 
@@ -22,7 +22,7 @@
 
 **HTML & CSS**
 
-1. [https://www.freecodecamp.org/challenges/say-hello-to-html-elements](https://www.freecodecamp.org/challenges/say-hello-to-html-elements)	`
+1. [FreeCodeCamp HTML](https://www.freecodecamp.org/challenges/say-hello-to-html-elements)	`
 
 	Complete the HTML and CSS part
 
@@ -32,7 +32,7 @@
 
 ### Javascript
 
-**	Beginner**
+**Beginner**
 
 1. Complete Basic Javascript and Object Oriented Section [https://www.freecodecamp.com/challenges/comment-your-javascript-code](https://www.freecodecamp.com/challenges/comment-your-javascript-code) 
 
@@ -42,15 +42,15 @@
 
 	
 
-	**Intermediate**
+**Intermediate**
 
 1. Comprehensive Book - [https://github.com/getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) 
 
 2. Object Oriented Javascript [https://www.udacity.com/course/object-oriented-javascript--ud015](https://www.udacity.com/course/object-oriented-javascript--ud015) 
 
-	**Reference**
+**Reference**
 
-**	**[https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
+[https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 
 ## BackEnd
 
@@ -98,7 +98,7 @@ Must for everyone - [Coursera Andrew Ng Course](https://www.coursera.org/learn/m
 
 6. Naive Bayes
 
-## **Practice - ****[Kaggl**e](https://www.kaggle.com/)
+## **Practice - **[Kaggle](https://www.kaggle.com/)
 
 ## Neural Networks
 
@@ -116,17 +116,19 @@ Must for everyone - [Coursera Andrew Ng Course](https://www.coursera.org/learn/m
 
 2. [NLTK](http://www.nltk.org/)
 
-**[Pytho**n](https://www.udacity.com/course/intro-to-data-analysis--ud170)**,  ****[Scikit-lear**n](https://github.com/justmarkham/scikit-learn-videos)**, Numy, Pandas, Matplotlib,**
+**[Python](https://www.udacity.com/course/intro-to-data-analysis--ud170)**,  **[Scikit-learn](https://github.com/justmarkham/scikit-learn-videos)**, Numy, Pandas, Matplotlib
 
      
 
 # Competitive Programming
 
-1. List of topics to be covered along with tutorials [https://discuss.codechef.com/questions/48877/data-structures-and-algorithms](https://discuss.codechef.com/questions/48877/data-structures-and-algorithms) 
+1. List of topics to be covered along with tutorials 
+[Data-structures-and-algorithms](https://discuss.codechef.com/questions/48877/data-structures-and-algorithms) 
 
-2. List of tutorials on different topics 		[https://github.com/hkirat/Algorithmic-Resources](https://github.com/hkirat/Algorithmic-Resources) 
+2. List of tutorials on different topics 		
+[Algorithmic-Resources](https://github.com/hkirat/Algorithmic-Resources) 
 
-3. Articles published on Hackerrank [https://github.com/manoharreddyporeddy/HackerRank-Topics](https://github.com/manoharreddyporeddy/HackerRank-Topics) 
+3. Articles published on Hackerrank [HackerRank-Topics](https://github.com/manoharreddyporeddy/HackerRank-Topics) 
 
 4. Practice: [Codeforces](http://codeforces.com/), [Codechef](http://www.codechef.com/), [Hackerrank](https://www.hackerrank.com/)
 
@@ -136,10 +138,10 @@ Must for everyone - [Coursera Andrew Ng Course](https://www.coursera.org/learn/m
 
 2. **Practice using simulator online-****[https://circuits.i**o](https://circuits.io)
 
-**C++**
+# C++
 
 **STL**
 
 1. [https://www.hackerearth.com/practice/notes/standard-template-library/](https://www.hackerearth.com/practice/notes/standard-template-library/)
 
-**	**
+
