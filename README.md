@@ -1,6 +1,9 @@
 **Computer Basics**
 
-[https://www.freecodecamp.org/videos/computer-basics-the-4-basic-parts-of-a-computer](https://www.freecodecamp.org/videos/computer-basics-the-4-basic-parts-of-a-computer) 
+[https://www.freecodecamp.org/videos/computer-basics-the-4-basic-parts-of-a-computer](https://www.freecodecamp.org/videos/computer-basics-the-4-basic-parts-of-a-computer)   
+
+
+
 
 # Web
 
@@ -56,7 +59,11 @@
 
 **NodeJS**
 
-1. Start with learnyounode workshopper - [https://nodeschool.io/](https://nodeschool.io/) 
+1. Start with learnyounode workshopper - [https://nodeschool.io/](https://nodeschool.io/)       
+
+
+
+
 
 # Android
 
@@ -78,7 +85,11 @@
 
 2. [https://developer.android.com/training/index.html](https://developer.android.com/training/index.html) 
 
-Must follow: [https://blog.mindorks.com/tagged/android](https://blog.mindorks.com/tagged/android) 
+Must follow: [https://blog.mindorks.com/tagged/android](https://blog.mindorks.com/tagged/android)       
+
+
+
+
 
 # Machine Learning
 
@@ -116,9 +127,10 @@ Must for everyone - [Coursera Andrew Ng Course](https://www.coursera.org/learn/m
 
 2. [NLTK](http://www.nltk.org/)
 
-**[Python](https://www.udacity.com/course/intro-to-data-analysis--ud170)**,  **[Scikit-learn](https://github.com/justmarkham/scikit-learn-videos)**, Numy, Pandas, Matplotlib
+**[Python](https://www.udacity.com/course/intro-to-data-analysis--ud170)**,  **[Scikit-learn](https://github.com/justmarkham/scikit-learn-videos)**, Numy, Pandas, Matplotlib      
 
-     
+    
+
 
 # Competitive Programming
 
@@ -130,13 +142,21 @@ Must for everyone - [Coursera Andrew Ng Course](https://www.coursera.org/learn/m
 
 3. Articles published on Hackerrank [HackerRank-Topics](https://github.com/manoharreddyporeddy/HackerRank-Topics) 
 
-4. Practice: [Codeforces](http://codeforces.com/), [Codechef](http://www.codechef.com/), [Hackerrank](https://www.hackerrank.com/)
+4. Practice: [Codeforces](http://codeforces.com/), [Codechef](http://www.codechef.com/), [Hackerrank](https://www.hackerrank.com/)      
+
+
+
+
 
 # Hardware
 
 1. **Basic Arduino tutorials -[https://m.youtube.com/user/sciguy14](https://m.youtube.com/user/sciguy14)**
 
-2. **Practice using simulator online-[https://circuits.io](https://circuits.io)**
+2. **Practice using simulator online-[https://circuits.io](https://circuits.io)**     
+
+
+
+
 
 # C++
 
@@ -144,4 +164,4 @@ Must for everyone - [Coursera Andrew Ng Course](https://www.coursera.org/learn/m
 
 1. [https://www.hackerearth.com/practice/notes/standard-template-library/](https://www.hackerearth.com/practice/notes/standard-template-library/)
 
-
+    
