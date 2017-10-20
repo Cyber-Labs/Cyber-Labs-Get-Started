@@ -98,7 +98,7 @@ Must for everyone - [Coursera Andrew Ng Course](https://www.coursera.org/learn/m
 
 6. Naive Bayes
 
-## **Practice - **[Kaggle](https://www.kaggle.com/)
+## Practice - [Kaggle](https://www.kaggle.com/)
 
 ## Neural Networks
 
@@ -112,7 +112,7 @@ Must for everyone - [Coursera Andrew Ng Course](https://www.coursera.org/learn/m
 
 ## Natural Language Processing
 
-1. Deep Learning for NLP - **[http://cs224d.stanford.ed**u](http://cs224d.stanford.edu/)
+1. Deep Learning for NLP - [http://cs224d.stanford.edu](http://cs224d.stanford.edu/)
 
 2. [NLTK](http://www.nltk.org/)
 
@@ -134,9 +134,9 @@ Must for everyone - [Coursera Andrew Ng Course](https://www.coursera.org/learn/m
 
 # Hardware
 
-1. **Basic Arduino tutorials - ****[https://m.youtube.com/user/sciguy1**4](https://m.youtube.com/user/sciguy14)
+1. **Basic Arduino tutorials -[https://m.youtube.com/user/sciguy14](https://m.youtube.com/user/sciguy14)**
 
-2. **Practice using simulator online-****[https://circuits.i**o](https://circuits.io)
+2. **Practice using simulator online-[https://circuits.io](https://circuits.io)**
 
 # C++
 
