@@ -139,6 +139,9 @@ Must for everyone - [Coursera Andrew Ng Course](https://www.coursera.org/learn/m
 2. [Numpy and Pandas](https://www.udacity.com/course/intro-to-data-analysis--ud170)
 
 3. Matplotlib
+	[Introduction](https://www.datacamp.com/community/tutorials/matplotlib-tutorial-python)
+	[Reference](https://www.labri.fr/perso/nrougier/teaching/matplotlib/)
+
  
 
 # Competitive Programming
