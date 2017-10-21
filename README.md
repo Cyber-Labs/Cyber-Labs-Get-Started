@@ -127,10 +127,19 @@ Must for everyone - [Coursera Andrew Ng Course](https://www.coursera.org/learn/m
 
 2. [NLTK](http://www.nltk.org/)
 
-**[Python](https://www.udacity.com/course/intro-to-data-analysis--ud170)**,  **[Scikit-learn](https://github.com/justmarkham/scikit-learn-videos)**, Numy, Pandas, Matplotlib      
+## Languages
 
-    
+1. [Python](https://pythonprogramming.net/)
 
+2. R
+
+## Libraries
+1. scikit-learn
+
+2. [Numpy and Pandas](https://www.udacity.com/course/intro-to-data-analysis--ud170)
+
+3. Matplotlib
+ 
 
 # Competitive Programming
 
