@@ -25,9 +25,10 @@
 
 **HTML & CSS**
 
-1. [FreeCodeCamp HTML](https://www.freecodecamp.org/challenges/say-hello-to-html-elements)	`
-
+1. [FreeCodeCamp HTML/CSS](https://www.freecodecamp.org/challenges/say-hello-to-html-elements)	`
 	Complete the HTML and CSS part
+2. [Codeschool HTML/CSS](https://www.codeschool.com/learn/html-css)
+3. [CSS Reference](http://cssreference.io)
 
 **Responsive Design**
 
