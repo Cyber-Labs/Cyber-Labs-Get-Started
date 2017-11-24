@@ -63,7 +63,10 @@
 1. Start with learnyounode workshopper - [https://nodeschool.io/](https://nodeschool.io/)       
 
 
+**Django**
 
+1. [CodeSchool](https://www.codeschool.com/courses/try-django)
+2. [Djangogirls](https://tutorial.djangogirls.org/en/)
 
 
 # Android
