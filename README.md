@@ -135,7 +135,7 @@ Must for everyone - [Coursera Andrew Ng Course](https://www.coursera.org/learn/m
 
 1. [Python](https://pythonprogramming.net/)
 
-2. R
+2. R - [Introduction](https://www.datacamp.com/courses/free-introduction-to-r) [Intermediate](https://www.datacamp.com/courses/intermediate-r)
 
 ## Libraries
 1. scikit-learn
