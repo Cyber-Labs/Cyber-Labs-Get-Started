@@ -146,6 +146,8 @@ Must for everyone - [Coursera Andrew Ng Course](https://www.coursera.org/learn/m
 	[Introduction](https://www.datacamp.com/community/tutorials/matplotlib-tutorial-python)
 	[Reference](https://www.labri.fr/perso/nrougier/teaching/matplotlib/)
 
+4. OpenCV
+	[Short Tutorials and Recipes](https://www.pyimagesearch.com)
  
 
 # Competitive Programming
