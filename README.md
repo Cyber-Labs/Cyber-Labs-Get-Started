@@ -1,8 +1,6 @@
 **Computer Basics**
 
-[https://www.freecodecamp.org/videos/computer-basics-the-4-basic-parts-of-a-computer](https://www.freecodecamp.org/videos/computer-basics-the-4-basic-parts-of-a-computer)   
-
-
+Web development in 2018 - The must know tech (https://www.youtube.com/watch?v=gVXcqO9A1vo)   
 
 
 # Web
