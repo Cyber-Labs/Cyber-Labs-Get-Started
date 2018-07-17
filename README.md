@@ -7,7 +7,7 @@
 
 # Web
 
-### **[Roadmap](https://medium.freecodecamp.org/a-roadmap-to-becoming-a-web-developer-in-2017-b6ac3dddd0cf)**
+### **[Roadmap](https://www.youtube.com/watch?v=gVXcqO9A1vo&t=37s)**
 
 ### Essentials
 
@@ -68,6 +68,22 @@
 1. [CodeSchool](https://www.codeschool.com/courses/try-django)
 2. [Djangogirls](https://tutorial.djangogirls.org/en/)
 
+**Flask**
+1. Official docs are very good. Find them here: - http://flask.pocoo.org/
+
+**Spring**
+1. [Spring MVC Architecture](https://www.youtube.com/watch?v=qHllF5pl1PA)
+2. [Basics: Building a RESTful web service in spring](https://spring.io/guides/gs/rest-service/)
+3. [Chapter 1(The IoC container) from here](https://docs.spring.io/spring/docs/5.0.7.RELEASE/spring-framework-reference/core.html#beans)
+  
+   **NOTE** - avoid XML based bean configuration as it is outdated and study annotation based bean configuration only.
+
+4. [Chapter 1(Spring Web MVC) from here](https://docs.spring.io/spring/docs/5.0.7.RELEASE/spring-framework-reference/web.html#mvc)
+
+5.  For dealing with REST APIs in spring:
+	a. [RestTemplate](https://docs.spring.io/spring/docs/5.0.7.RELEASE/spring-framework-reference/integration.html#rest-client-access)
+	b. [WebClient](https://docs.spring.io/spring/docs/5.0.7.RELEASE/spring-framework-reference/web-reactive.html#webflux-client)		
+6. [MySQL and Spring](https://spring.io/guides/gs/accessing-data-mysql/)
 
 # Android
 
