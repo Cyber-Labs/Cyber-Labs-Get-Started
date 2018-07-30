@@ -117,9 +117,9 @@ Must for everyone - [Coursera Andrew Ng Course](https://www.coursera.org/learn/m
 
 ## ML Algorithms
 
-1. Linear Regression
+1. Linear Regression: [Article](https://towardsdatascience.com/linear-regression-detailed-view-ea73175f6e86) | [Lecture](https://youtu.be/kHwlB_j7Hkc)
 
-2. Logistic Regression
+2. Logistic Regression: 
 
 3. Decision Trees
 
