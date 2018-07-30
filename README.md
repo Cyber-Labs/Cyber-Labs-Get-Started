@@ -114,20 +114,21 @@ Must follow: [https://blog.mindorks.com/tagged/android](https://blog.mindorks.co
 # Machine Learning
 
 Must for everyone - [Coursera Andrew Ng Course](https://www.coursera.org/learn/machine-learning)
+Useful Sites - [Towards Data Science](https://towardsdatascience.com/) | [Machine Learning Mastery](https://machinelearningmastery.com/) | [Analytics Vidhya](https://www.analyticsvidhya.com/)s
 
 ## ML Algorithms
 
 1. Linear Regression: [Article](https://towardsdatascience.com/linear-regression-detailed-view-ea73175f6e86) | [Lecture](https://youtu.be/kHwlB_j7Hkc)
 
-2. Logistic Regression: 
+2. Logistic Regression: [Article](https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc) | [Lecture](https://www.youtube.com/watch?v=-la3q9d7AKQ)
 
-3. Decision Trees
+3. Decision Trees: [Article](https://towardsdatascience.com/decision-trees-in-machine-learning-641b9c4e8052)
 
-4. KNN(k-Nearest Neighbour)
+4. KNN(k-Nearest Neighbours): [Article](https://www.analyticsvidhya.com/blog/2018/03/introduction-k-neighbours-algorithm-clustering/)
 
-5. k-Means Clustering
+5. k-Means Clustering: [Article](https://www.datascience.com/blog/k-means-clustering)
 
-6. Naive Bayes
+6. Naive Bayes: [Article](https://towardsdatascience.com/naive-bayes-in-machine-learning-f49cc8f831b4)
 
 ## Practice - [Kaggle](https://www.kaggle.com/)
 
@@ -149,34 +150,23 @@ Must for everyone - [Coursera Andrew Ng Course](https://www.coursera.org/learn/m
 
 ## Languages
 
-1. [Python](https://pythonprogramming.net/)
+1. Python: [Lectures](https://pythonprogramming.net/)
 
-2. R - [Introduction](https://www.datacamp.com/courses/free-introduction-to-r) [Intermediate](https://www.datacamp.com/courses/intermediate-r)
+2. R: [Introduction](https://www.datacamp.com/courses/free-introduction-to-r) [Intermediate](https://www.datacamp.com/courses/intermediate-r)
 
 ## Libraries
-1. scikit-learn
-
-2. [Numpy and Pandas](https://www.udacity.com/course/intro-to-data-analysis--ud170)
-
-3. Matplotlib
-	[Introduction](https://www.datacamp.com/community/tutorials/matplotlib-tutorial-python)
-	[Reference](https://www.labri.fr/perso/nrougier/teaching/matplotlib/)
-
-4. OpenCV
-	[Short Tutorials and Recipes](https://www.pyimagesearch.com)
+1. scikit-learn: [Tutorials from ](http://scikit-learn.org/stable/tutorial/index.html)
+2. Numpy and Pandas: [Course](https://www.udacity.com/course/intro-to-data-analysis--ud170)
+3. Matplotlib: [Introduction](https://www.datacamp.com/community/tutorials/matplotlib-tutorial-python) | [Reference](https://www.labri.fr/perso/nrougier/teaching/matplotlib/)
+4. OpenCV: [Short Tutorials and Recipes](https://www.pyimagesearch.com)
  
 
 # Competitive Programming
 
-1. List of topics to be covered along with tutorials 
-[Data-structures-and-algorithms](https://discuss.codechef.com/questions/48877/data-structures-and-algorithms) 
-
-2. List of tutorials on different topics 		
-[Algorithmic-Resources](https://github.com/hkirat/Algorithmic-Resources) 
-
-3. Articles published on Hackerrank [HackerRank-Topics](https://github.com/manoharreddyporeddy/HackerRank-Topics) 
-
-4. Practice: [Codeforces](http://codeforces.com/), [Codechef](http://www.codechef.com/), [Hackerrank](https://www.hackerrank.com/)      
+1. List of topics to be covered along with tutorials: [Data-structures-and-algorithms](https://discuss.codechef.com/questions/48877/data-structures-and-algorithms) 
+2. List of tutorials on different topics: [Algorithmic-Resources](https://github.com/hkirat/Algorithmic-Resources) 
+3. Articles published on Hackerrank: [HackerRank-Topics](https://github.com/manoharreddyporeddy/HackerRank-Topics) 
+4. Practice: [Codeforces](http://codeforces.com/) | [Codechef](http://www.codechef.com/), [Hackerrank](https://www.hackerrank.com/)      
 
 
 
@@ -184,9 +174,8 @@ Must for everyone - [Coursera Andrew Ng Course](https://www.coursera.org/learn/m
 
 # Hardware
 
-1. **Basic Arduino tutorials -[https://m.youtube.com/user/sciguy14](https://m.youtube.com/user/sciguy14)**
-
-2. **Practice using simulator online-[https://circuits.io](https://circuits.io)**     
+1. **Basic Arduino tutorials -[Tutorials on YouTube](https://m.youtube.com/user/sciguy14)**
+2. **Practice using simulator online-[Circuits.io](https://circuits.io)**     
 
 
 
@@ -196,6 +185,5 @@ Must for everyone - [Coursera Andrew Ng Course](https://www.coursera.org/learn/m
 
 **STL**
 
-1. [https://www.hackerearth.com/practice/notes/standard-template-library/](https://www.hackerearth.com/practice/notes/standard-template-library/)
-
+1. [Challenges on HackerEarth](https://www.hackerearth.com/practice/notes/standard-template-library/)
     
