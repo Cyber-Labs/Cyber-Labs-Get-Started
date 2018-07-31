@@ -1,13 +1,39 @@
-**Computer Basics**
+# Cyber Labs - Get Started
+A collection of useful resources to help you get started!
+
+# Table of Contents
+- [Computer Basics](#computer-basics)
+- [Web](#web)
+    + [Roadmap](#roadmap)
+    + [Essentials](#essentials)
+  * [FrontEnd](#frontend)
+  * [Javascript](#javascript)
+  * [BackEnd](#backend)
+- [Android](#android)
+  * [Java](#java)
+  * [Beginner](#beginner)
+  * [Intermediate](#intermediate)
+- [Machine Learning](#machine-learning)
+  * [Must for everyone](#must-for-everyone)
+  * [ML Algorithms](#ml-algorithms)
+  * [Practice - Kaggle](#practice)
+  * [Neural Networks](#neural-networks)
+  * [ML in computer Vision](#ml-in-computer-vision)
+  * [Natural Language Processing](#natural-language-processing)
+  * [Languages](#languages)
+  * [Libraries](#libraries)
+- [Competitive Programming](#competitive-programming)
+- [Hardware](#hardware)
+- [C++](#c)
+
+
+## Computer Basics
 
 [https://www.freecodecamp.org/videos/computer-basics-the-4-basic-parts-of-a-computer](https://www.freecodecamp.org/videos/computer-basics-the-4-basic-parts-of-a-computer)   
 
-
-
-
 # Web
 
-### **[Roadmap](https://www.youtube.com/watch?v=gVXcqO9A1vo&t=37s)**
+### [Roadmap](https://www.youtube.com/watch?v=gVXcqO9A1vo&t=37s)
 
 ### Essentials
 
@@ -87,19 +113,19 @@
 
 # Android
 
-**Java**
+## Java
 
 1. [https://in.udacity.com/course/intro-to-java-programming--cs046](https://in.udacity.com/course/intro-to-java-programming--cs046)
 
  
 
-**Beginner**	
+## Beginner
 
 1. [https://www.udacity.com/course/android-development-for-beginners--ud837](https://www.udacity.com/course/android-development-for-beginners--ud837) 
 
 2. [http://www.vogella.de/articles/Android/article.html](http://www.vogella.de/articles/Android/article.html) 
 
-**Intermediate**
+## Intermediate
 
 1. Material Design: Navigation Drawer,  Recycler View etc. [https://www.youtube.com/playlist?list=PLonJJ3BVjZW6CtAMbJz1XD8ELUs1KXaTD](https://www.youtube.com/playlist?list=PLonJJ3BVjZW6CtAMbJz1XD8ELUs1KXaTD) 
 
@@ -113,8 +139,10 @@ Must follow: [https://blog.mindorks.com/tagged/android](https://blog.mindorks.co
 
 # Machine Learning
 
-Must for everyone - [Coursera Andrew Ng Course](https://www.coursera.org/learn/machine-learning)
-Useful Sites - [Towards Data Science](https://towardsdatascience.com/) | [Machine Learning Mastery](https://machinelearningmastery.com/) | [Analytics Vidhya](https://www.analyticsvidhya.com/)s
+## Must for everyone
+- [Coursera Andrew Ng Course](https://www.coursera.org/learn/machine-learning)
+
+Useful Sites - [Towards Data Science](https://towardsdatascience.com/) | [Machine Learning Mastery](https://machinelearningmastery.com/) | [Analytics Vidhya](https://www.analyticsvidhya.com/)
 
 ## ML Algorithms
 
@@ -124,7 +152,7 @@ Useful Sites - [Towards Data Science](https://towardsdatascience.com/) | [Machin
 
 3. Decision Trees: [Article](https://towardsdatascience.com/decision-trees-in-machine-learning-641b9c4e8052)
 
-4. KNN(k-Nearest Neighbours): [Article](https://www.analyticsvidhya.com/blog/2018/03/introduction-k-neighbours-algorithm-clustering/)
+4. KNN (K-Nearest Neighbours): [Article](https://www.analyticsvidhya.com/blog/2018/03/introduction-k-neighbours-algorithm-clustering/)
 
 5. k-Means Clustering: [Article](https://www.datascience.com/blog/k-means-clustering)
 
@@ -140,7 +168,7 @@ Useful Sites - [Towards Data Science](https://towardsdatascience.com/) | [Machin
 
 ## ML in computer Vision
 
-1. [Convolutional Neural Network](http://cs231n.stanford.edu) - Stanford Course 231n
+1. [Convolutional Neural Networks](http://cs231n.stanford.edu) - Stanford Course 231n
 
 ## Natural Language Processing
 
