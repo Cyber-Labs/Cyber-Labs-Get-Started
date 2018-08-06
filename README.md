@@ -64,7 +64,7 @@ A collection of useful resources to help you get started!
 
 **Beginner**
 
-1. Complete Basic Javascript and Object Oriented Section [https://www.freecodecamp.com/challenges/comment-your-javascript-code](https://www.freecodecamp.com/challenges/comment-your-javascript-code) 
+1. Complete Basic Javascript and Object Oriented Section: [https://www.freecodecamp.com/challenges/comment-your-javascript-code](https://www.freecodecamp.com/challenges/comment-your-javascript-code) 
 
 2. [https://javascript30.com/](https://javascript30.com/)
 
@@ -87,7 +87,6 @@ A collection of useful resources to help you get started!
 **NodeJS**
 
 1. Start with learnyounode workshopper - [https://nodeschool.io/](https://nodeschool.io/)       
-
 
 **Django**
 
@@ -127,11 +126,11 @@ A collection of useful resources to help you get started!
 
 ## Intermediate
 
-1. Material Design: Navigation Drawer,  Recycler View etc. [https://www.youtube.com/playlist?list=PLonJJ3BVjZW6CtAMbJz1XD8ELUs1KXaTD](https://www.youtube.com/playlist?list=PLonJJ3BVjZW6CtAMbJz1XD8ELUs1KXaTD) 
+1. Material Design: Navigation Drawer,  Recycler View etc: [Android Material Design Tutorial Playlist on YouTube](https://www.youtube.com/playlist?list=PLonJJ3BVjZW6CtAMbJz1XD8ELUs1KXaTD) 
 
-2. [https://developer.android.com/training/index.html](https://developer.android.com/training/index.html) 
+2. Official guide from Google Developers: [Developer Guides](https://developer.android.com/training/index.html) 
 
-Must follow: [https://blog.mindorks.com/tagged/android](https://blog.mindorks.com/tagged/android)       
+Must follow: [Andoid section on the Mindorks blog](https://blog.mindorks.com/category/android.html)       
 
 
 
@@ -162,28 +161,27 @@ Useful Sites - [Towards Data Science](https://towardsdatascience.com/) | [Machin
 
 ## Neural Networks
 
-1. [Neural Network - Coursera](https://www.coursera.org/learn/neural-networks)
+1. Geoffrey Hinton's course on [Neural Networks - Coursera](https://www.coursera.org/learn/neural-networks)
 
-2. [Book on neural networks](http://neuralnetworksanddeeplearning.com/) and maths behind it.
+2. A very good [Book on neural networks](http://neuralnetworksanddeeplearning.com/) and maths behind it.
 
 ## ML in computer Vision
 
-1. [Convolutional Neural Networks](http://cs231n.stanford.edu) - Stanford Course 231n
+1. Convolutional Neural Networks - [Stanford Course 231n](http://cs231n.stanford.edu)
 
 ## Natural Language Processing
 
 1. Deep Learning for NLP - [http://cs224d.stanford.edu](http://cs224d.stanford.edu/)
 
-2. [NLTK](http://www.nltk.org/)
+2. NLTK Library - [NLTK](http://www.nltk.org/)
 
 ## Languages
 
 1. Python: [Lectures](https://pythonprogramming.net/)
-
-2. R: [Introduction](https://www.datacamp.com/courses/free-introduction-to-r) [Intermediate](https://www.datacamp.com/courses/intermediate-r)
+2. R: [Introduction](https://www.datacamp.com/courses/free-introduction-to-r) | [Intermediate](https://www.datacamp.com/courses/intermediate-r)
 
 ## Libraries
-1. scikit-learn: [Tutorials from ](http://scikit-learn.org/stable/tutorial/index.html)
+1. scikit-learn: [Tutorials on ScikitLearn's official website](http://scikit-learn.org/stable/tutorial/index.html)
 2. Numpy and Pandas: [Course](https://www.udacity.com/course/intro-to-data-analysis--ud170)
 3. Matplotlib: [Introduction](https://www.datacamp.com/community/tutorials/matplotlib-tutorial-python) | [Reference](https://www.labri.fr/perso/nrougier/teaching/matplotlib/)
 4. OpenCV: [Short Tutorials and Recipes](https://www.pyimagesearch.com)
@@ -194,7 +192,7 @@ Useful Sites - [Towards Data Science](https://towardsdatascience.com/) | [Machin
 1. List of topics to be covered along with tutorials: [Data-structures-and-algorithms](https://discuss.codechef.com/questions/48877/data-structures-and-algorithms) 
 2. List of tutorials on different topics: [Algorithmic-Resources](https://github.com/hkirat/Algorithmic-Resources) 
 3. Articles published on Hackerrank: [HackerRank-Topics](https://github.com/manoharreddyporeddy/HackerRank-Topics) 
-4. Practice: [Codeforces](http://codeforces.com/) | [Codechef](http://www.codechef.com/), [Hackerrank](https://www.hackerrank.com/)      
+4. Practice: [Codeforces](http://codeforces.com/) | [Codechef](http://www.codechef.com/) | [Hackerrank](https://www.hackerrank.com/)      
 
 
 
@@ -202,9 +200,9 @@ Useful Sites - [Towards Data Science](https://towardsdatascience.com/) | [Machin
 
 # Hardware
 
-1. **Basic Arduino tutorials -[Tutorials on YouTube](https://m.youtube.com/user/sciguy14)**
-2. **Practice using simulator online-[Circuits.io](https://circuits.io)**     
-3. **Projects,Tutorials, Hackathons and Contests**-[Hackster.io](https://www.hackster.io/)
+1. **Basic Arduino tutorials** - [Tutorials on YouTube](https://m.youtube.com/user/sciguy14)
+2. **Practice using simulator online** - [Circuits.io](https://circuits.io)
+3. **Projects,Tutorials, Hackathons and Contests** - [Hackster.io](https://www.hackster.io/)
 
 
 
