@@ -25,6 +25,7 @@ A collection of useful resources to help you get started!
 - [Competitive Programming](#competitive-programming)
 - [Hardware](#hardware)
 - [C++](#c)
+- [Open Source](#open-source)
 
 
 ## Computer Basics
@@ -74,7 +75,9 @@ A collection of useful resources to help you get started!
 
 **Intermediate**
 
-1. Comprehensive Book - [https://github.com/getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) 
+1. Comprehensive Books - 
+	- [https://github.com/getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) 
+	- [http://eloquentjavascript.net](http://eloquentjavascript.net)
 
 2. Object Oriented Javascript [https://www.udacity.com/course/object-oriented-javascript--ud015](https://www.udacity.com/course/object-oriented-javascript--ud015) 
 
@@ -195,8 +198,11 @@ Useful Sites - [Towards Data Science](https://towardsdatascience.com/) | [Machin
 4. Practice: [Codeforces](http://codeforces.com/) | [Codechef](http://www.codechef.com/) | [Hackerrank](https://www.hackerrank.com/)      
 
 
+# Open Source
 
-
+1. [Learn git](https://learngitbranching.js.org/)
+2. [Learn general process for Open source Development](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
+3. [Comprehensive book on git](https://git-scm.com/book/en/v2)
 
 # Hardware
 
