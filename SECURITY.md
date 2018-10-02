@@ -23,7 +23,7 @@
 
 * **Video2** [link](https://www.youtube.com/watch?v=DWBUQiaN5ZM&index=3&list=PLxhvVyxYRviZd1oEA9nmnilY3PhVrt4nj)
 
-* **IP**:  ```https://www.youtube.com/watch?v=L6bDA5FK6gs```
+* **IP**:  (https://www.youtube.com/watch?v=L6bDA5FK6gs)
 
 * Solve basic ctf problems from [Bandit](http://overthewire.org/wargames/bandit/) and [Natas](http://overthewire.org/wargames/natas/)
 
@@ -56,7 +56,7 @@
 	6. Mobile Pentest,...
 
 * Learn creating ssh public key and connecting to ssh server
-```https://www.youtube.com/watch?v=3CN65ccfllU&list=PLJ_vkrXdcgH-lYlRV8O-kef2zWvoy79yP&index=4```
+(https://www.youtube.com/watch?v=3CN65ccfllU&list=PLJ_vkrXdcgH-lYlRV8O-kef2zWvoy79yP&index=4)
 
 
 * Master some most important tools of Kali: 
@@ -73,19 +73,19 @@
 2. Web hacking 101
 
 ### links
-XSS: ```https://www.youtube.com/watch?v=L5l9lSnNMxg```
+XSS: (https://www.youtube.com/watch?v=L5l9lSnNMxg)
 
-SQLi: ```https://www.youtube.com/watch?v=_jKylhJtPmI```
+SQLi: (https://www.youtube.com/watch?v=_jKylhJtPmI)
 
 ## Some sites to practice Vulnerabilities in Web.
-1. ```http://testphp.vulnweb.com/```
-2. ```hackthis.co.uk (sqli)```
-4. ```Damn Vulnerable Web Application (DVWA)```
-3. ```Owasp mutillidae 2 (offline)```
+1. (http://testphp.vulnweb.com/)
+2. (https://hackthis.co.uk) (sqli)
+4. Damn Vulnerable Web Application (DVWA)
+3. Owasp mutillidae 2 (offline)
 
 ### For Advanced vulnerable machines:
-1. ```https://www.hackthebox.eu/```
-2. ```https://www.vulnhub.com/```
+1. (https://www.hackthebox.eu/)
+2. (https://www.vulnhub.com/)
 
 
 ## some useful softwares for:
@@ -106,21 +106,21 @@ SQLi: ```https://www.youtube.com/watch?v=_jKylhJtPmI```
 ```HTTP,Https FTP, DNS, SMTP ,ports,MAC Address,IPv4,IPv6,Public v Private IP,OSI model,Routers and switches.```
 
 ## Learn basic regex
-1. ```https://regexone.com/```
-2. ```https://regexr.com/```
+1. (https://regexone.com/)
+2. (https://regexr.com/)
 
 ## learn bash scripting:
-1. ```https://devhints.io/bash```
-2. ```https://www.shellscript.sh/```
+1. (https://devhints.io/bash)
+2. (https://www.shellscript.sh/)
 
 ## Then start participating in bug bounty programs on [Bugcrowd](https://www.bugcrowd.com/), [Hackerone](https://www.hackerone.com/), etc
 
 ## Some important resource to learn hacking:
 
-* ```https://www.cybrary.it/```
-* ```https://www.hacker101.com/```
+* (https://www.cybrary.it/)
+* (https://www.hacker101.com/)
 
-* ```http://virustotal.com```: Site used for finding all subdomains of a site, checking virus, and many more.
+* (http://virustotal.com): Site used for finding all subdomains of a site, checking virus, and many more.
 
 ## Books for reversing/binary exploitation:
 1. Hacking: The Art of Exploitation
@@ -128,8 +128,6 @@ SQLi: ```https://www.youtube.com/watch?v=_jKylhJtPmI```
 
 
 ## Some useful youtube channels:
-* ```https://www.youtube.com/user/Computerphile```
-* ```https://www.youtube.com/user/DEFCONConference```
-* ```https://www.youtube.com/channel/UCsgzmECky2Q9lQMWzDwMhYw```
-
-
+* (https://www.youtube.com/user/Computerphile)
+* (https://www.youtube.com/user/DEFCONConference)
+* (https://www.youtube.com/channel/UCsgzmECky2Q9lQMWzDwMhYw )

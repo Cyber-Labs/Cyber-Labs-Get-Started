@@ -1,0 +1,112 @@
+Introduction to Ethical Hacking/Pentesting.
+
+Follow steps to start:
+1. Install linux in your system.(Kali Linux recommended)
+
+2. learn basic linux commands
+
+3. Do the basics of programming (html/css, js, php, sql, python)
+   For basics and in short watch derek videos.
+
+4. few concepts to be learned:
+	1.methods mainly get and post
+	2.ip
+	3.dns
+	4.telmet
+	5.ssh
+
+how does internet work?
+https://www.youtube.com/watch?v=DWBUQiaN5ZM&feature=youtu.be
+https://www.youtube.com/watch?v=DWBUQiaN5ZM&index=3&list=PLxhvVyxYRviZd1oEA9nmnilY3PhVrt4nj
+https://www.youtube.com/watch?v=L6bDA5FK6gs : IP
+
+solve basic ctf problems from bandit and natas 
+if this is completed then move to hack this site(basic and js challenges)
+
+learn python as many tools/scripts are made out of it
+
+after this move to backdoor sdslads, picoctf previous ctf challenges
+Learn to use github as it is like a  best friend to a hacker
+learn about owasp top 10 vulnerabilities.
+
+
+learn basics of vim and nano
+Some most used commands: cat,ls,vim,ping,file,find,du,pwd,env,chmod,wget,cron,telnet,gzip,bzip2,tar,base64,grep,nc,curl,strings,whatweb, wildcards and many more.
+
+
+start participating in ctfs on ctftime(this will boost your problem solving skills)
+//
+//
+solve previous questions of ctf and read writeups
+
+cybersecurity has many branches like:
+	1.web security
+	2.network security
+	3.forensics
+	4.binary exploitation
+	5.steganography
+
+learn creating ssh public key and connecting to ssh server
+//
+
+Master some most important tools of Kali: Burpsuite,Webscrab, Metasploit, Nmap, Wireshark.
+
+Learn using some browser extention which will help in solving CTF problems: hackbar,cookie editor,open referer control, 
+
+learn about vulnerabilities xss, htmli, sqli,
+books that may help:
+web application hacker's handbook,
+web hacking 101
+https://www.youtube.com/watch?v=L5l9lSnNMxg  xss
+https://www.youtube.com/watch?v=_jKylhJtPmI sqli
+
+some sites to practice web vulnerabilities in web.
+1. http://testphp.vulnweb.com/
+2. hackthis.co.uk (sqli)
+4. Damn Vulnerable Web Application (DVWA)
+3. owasp mutillidae 2 (offline)
+
+For Advanced vulnerable machines:
+1. https://www.hackthebox.eu/
+2. https://www.vulnhub.com/
+
+
+some useful softwares for :
+					  	  steganography: zteg, stegsolve, jstego, hex-editor
+						  reversing: gdb,edb-debug, gdb-peda, hex-editor
+						  password cracking: john the ripper, crunch, medusa
+						  sqli: sqlmap
+
+learn cryptography
+best online tool for crypto:cryptii.com
+for advanced crypto then go for coursera
+
+for networking some basic terminologies to learn are: HTTP,Https FTP, DNS, SMTP ,ports,MAC Address,IPv4,IPv6,Public v Private IP,OSI model,Routers and switches.
+
+learn basic regex
+1. https://regexone.com/
+2. https://regexr.com/
+
+learn bash scripting:
+1. https://devhints.io/bash
+2. https://www.shellscript.sh/
+
+Then start participating in bug bounty programs on bugcrowd, hackerone, etc
+
+Some important resource to learn hacking:
+
+https://www.cybrary.it/
+https://www.hacker101.com/
+virustotal.com: Site used for finding all subdomains of a site.
+
+Books for reversing/binary exploitation:
+1. Hacking: The Art of Exploitation
+2. The Shellcoders Handbook
+
+
+Some useful youtube channels:
+https://www.youtube.com/user/Computerphile
+https://www.youtube.com/user/DEFCONConference
+https://www.youtube.com/channel/UCsgzmECky2Q9lQMWzDwMhYw
+
+
