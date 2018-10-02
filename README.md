@@ -15,13 +15,14 @@ A collection of useful resources to help you get started!
   * [Intermediate](#intermediate)
 - [Machine Learning](#machine-learning)
   * [Must for everyone](#must-for-everyone)
-  * [ML Algorithms](#ml-algorithms)
+  * [Common ML Algorithms](#common-ml-algorithms)
   * [Practice - Kaggle](#practice)
   * [Neural Networks](#neural-networks)
-  * [ML in computer Vision](#ml-in-computer-vision)
+  * [Deep Learning](#deep-learning)
   * [Natural Language Processing](#natural-language-processing)
   * [Languages](#languages)
   * [Libraries](#libraries)
+  * [Useful Sites](#Useful-sites)
 - [Cyber Security/Hacking](https://github.com/Cyber-Labs/Cyber-Labs-Get-Started/blob/master/SECURITY.md)
 - [Competitive Programming](#competitive-programming)
 - [Hardware](#hardware)
@@ -145,9 +146,11 @@ Must follow: [Andoid section on the Mindorks blog](https://blog.mindorks.com/cat
 ## Must for everyone
 - [Coursera Andrew Ng Course](https://www.coursera.org/learn/machine-learning)
 
-Useful Sites - [Towards Data Science](https://towardsdatascience.com/) | [Machine Learning Mastery](https://machinelearningmastery.com/) | [Analytics Vidhya](https://www.analyticsvidhya.com/)
+## Languages
+1. Python: [Lectures](https://pythonprogramming.net/)
+2. R: [Introduction](https://www.datacamp.com/courses/free-introduction-to-r) | [Intermediate](https://www.datacamp.com/courses/intermediate-r)
 
-## ML Algorithms
+## Common ML Algorithms
 
 1. Linear Regression: [Article](https://towardsdatascience.com/linear-regression-detailed-view-ea73175f6e86) | [Lecture](https://youtu.be/kHwlB_j7Hkc)
 
@@ -161,28 +164,23 @@ Useful Sites - [Towards Data Science](https://towardsdatascience.com/) | [Machin
 
 6. Naive Bayes: [Article](https://towardsdatascience.com/naive-bayes-in-machine-learning-f49cc8f831b4)
 
-## Practice - [Kaggle](https://www.kaggle.com/)
+## Practice 
+1. [Kaggle](https://www.kaggle.com/)
+2. [Analytics Vidhya](https://www.analyticsvidhya.com/)
 
 ## Neural Networks
 
 1. Geoffrey Hinton's course on [Neural Networks - Coursera](https://www.coursera.org/learn/neural-networks)
-
 2. A very good [Book on neural networks](http://neuralnetworksanddeeplearning.com/) and maths behind it.
 
-## ML in computer Vision
-
-1. Convolutional Neural Networks - [Stanford Course 231n](http://cs231n.stanford.edu)
+## Deep Learning
+1. Convolutional Neural Networks: [Stanford Course 231n](http://cs231n.stanford.edu)
+2. Deep Learning Specialaization by Andrew Ng: [deeplearning.ai](https://www.deeplearning.ai/)
+3. First Course of Advanced Machine Learning Specialization: [Intro to Deep Learning](https://www.coursera.org/learn/intro-to-deep-learning/)
 
 ## Natural Language Processing
-
-1. Deep Learning for NLP - [http://cs224d.stanford.edu](http://cs224d.stanford.edu/)
-
-2. NLTK Library - [NLTK](http://www.nltk.org/)
-
-## Languages
-
-1. Python: [Lectures](https://pythonprogramming.net/)
-2. R: [Introduction](https://www.datacamp.com/courses/free-introduction-to-r) | [Intermediate](https://www.datacamp.com/courses/intermediate-r)
+1. Deep Learning for NLP: [Stanford CS224D](http://cs224d.stanford.edu/)
+2. NLTK Library: [NLTK](http://www.nltk.org/)
 
 ## Libraries
 1. scikit-learn: [Tutorials on ScikitLearn's official website](http://scikit-learn.org/stable/tutorial/index.html)
@@ -190,6 +188,11 @@ Useful Sites - [Towards Data Science](https://towardsdatascience.com/) | [Machin
 3. Matplotlib: [Introduction](https://www.datacamp.com/community/tutorials/matplotlib-tutorial-python) | [Reference](https://www.labri.fr/perso/nrougier/teaching/matplotlib/)
 4. OpenCV: [Short Tutorials and Recipes](https://www.pyimagesearch.com)
  
+## Useful sites
+1. [Towards Data Science](https://towardsdatascience.com/)
+2. [Machine Learning Mastery](https://machinelearningmastery.com/)
+3. [Analytics Vidhya](https://www.analyticsvidhya.com/)
+
 
 # Competitive Programming
 
