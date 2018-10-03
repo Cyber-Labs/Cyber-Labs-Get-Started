@@ -186,6 +186,7 @@ Must follow: [Andoid section on the Mindorks blog](https://blog.mindorks.com/cat
 ## Reinforcement Learning
 1. RL course: [By David Silver](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
 2. CS229 Machine Learning by Andrew NG: [Lecture 16](https://www.youtube.com/watch?v=RtxI449ZjSc&feature=relmfu)
+3. Reinforcement Learning: An Introduction (1st Edition, 1998) by Richard Sutton and Andrew Barto: [Book](http://incompleteideas.net/book/ebook/the-book.html), [Code](http://incompleteideas.net/book/code/code.html)
 
 ## Libraries
 1. scikit-learn: [Tutorials on ScikitLearn's official website](http://scikit-learn.org/stable/tutorial/index.html)
