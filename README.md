@@ -20,6 +20,7 @@ A collection of useful resources to help you get started!
   * [Neural Networks](#neural-networks)
   * [Deep Learning](#deep-learning)
   * [Natural Language Processing](#natural-language-processing)
+  * [Reinforcement Learning](#reinforcement-learning)
   * [Languages](#languages)
   * [Libraries](#libraries)
   * [Useful Sites](#useful-sites)
