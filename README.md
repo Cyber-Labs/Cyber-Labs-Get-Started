@@ -182,6 +182,10 @@ Must follow: [Andoid section on the Mindorks blog](https://blog.mindorks.com/cat
 1. Deep Learning for NLP: [Stanford CS224D](http://cs224d.stanford.edu/)
 2. NLTK Library: [NLTK](http://www.nltk.org/)
 
+## Reinforcement Learning
+1. RL course: [By David Silver](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
+2. CS229 Machine Learning by Andrew NG: [Lecture 16](https://www.youtube.com/watch?v=RtxI449ZjSc&feature=relmfu)
+
 ## Libraries
 1. scikit-learn: [Tutorials on ScikitLearn's official website](http://scikit-learn.org/stable/tutorial/index.html)
 2. Numpy and Pandas: [Course](https://www.udacity.com/course/intro-to-data-analysis--ud170)
