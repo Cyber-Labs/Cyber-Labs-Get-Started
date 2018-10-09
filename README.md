@@ -28,6 +28,7 @@ A collection of useful resources to help you get started!
 - [Hardware](#hardware)
 - [C++](#c)
 - [Open Source](#open-source)
+- [Graphic Design](#Graphic-Design)
 
 
 ## Computer Basics
