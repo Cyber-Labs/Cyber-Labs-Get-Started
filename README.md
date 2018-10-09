@@ -26,7 +26,7 @@ A collection of useful resources to help you get started!
   * [Useful Sites](#useful-sites)
 - [Cyber Security/Hacking](SECURITY.md)
   * [Introduction to Ethical Hacking/Pentesting](SECURITY.md#introduction-to-ethical-hackingpentesting)
-    + [How Does Internet Work](SECURITY.md#how-does-internet-work)
+    + [How Does The Internet Work](SECURITY.md#how-does-the-internet-work)
 - [Competitive Programming](#competitive-programming)
 - [Hardware](#hardware)
 - [C++](#c)
@@ -57,8 +57,7 @@ A collection of useful resources to help you get started!
 
 **HTML & CSS**
 
-1. [FreeCodeCamp HTML/CSS](https://www.freecodecamp.org/challenges/say-hello-to-html-elements)	`
-	Complete the HTML and CSS part
+1. [FreeCodeCamp HTML/CSS](https://www.freecodecamp.org/challenges/say-hello-to-html-elements): Complete the HTML and CSS part.
 2. [Codeschool HTML/CSS](https://www.codeschool.com/learn/html-css)
 3. [CSS Reference](http://cssreference.io)
 
@@ -139,68 +138,6 @@ A collection of useful resources to help you get started!
 2. Official guide from Google Developers: [Developer Guides](https://developer.android.com/training/index.html)
 
 Must follow: [Andoid section on the Mindorks blog](https://blog.mindorks.com/category/android.html)       
-
-
-
-
-
-# Machine Learning
-
-## Must for everyone
-- [Coursera Andrew Ng Course](https://www.coursera.org/learn/machine-learning)
-
-## Languages
-1. Python: [Lectures](https://pythonprogramming.net/)
-2. R: [Introduction](https://www.datacamp.com/courses/free-introduction-to-r) | [Intermediate](https://www.datacamp.com/courses/intermediate-r)
-
-## Common ML Algorithms
-
-1. Linear Regression: [Article](https://towardsdatascience.com/linear-regression-detailed-view-ea73175f6e86) | [Lecture](https://youtu.be/kHwlB_j7Hkc)
-
-2. Logistic Regression: [Article](https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc) | [Lecture](https://www.youtube.com/watch?v=-la3q9d7AKQ)
-
-3. Decision Trees: [Article](https://towardsdatascience.com/decision-trees-in-machine-learning-641b9c4e8052)
-
-4. KNN (K-Nearest Neighbours): [Article](https://www.analyticsvidhya.com/blog/2018/03/introduction-k-neighbours-algorithm-clustering/)
-
-5. k-Means Clustering: [Article](https://www.datascience.com/blog/k-means-clustering)
-
-6. Naive Bayes: [Article](https://towardsdatascience.com/naive-bayes-in-machine-learning-f49cc8f831b4)
-
-## Practice
-1. [Kaggle](https://www.kaggle.com/)
-2. [Analytics Vidhya](https://www.analyticsvidhya.com/)
-
-## Neural Networks
-
-1. Geoffrey Hinton's course on [Neural Networks - Coursera](https://www.coursera.org/learn/neural-networks)
-2. A very good [Book on neural networks](http://neuralnetworksanddeeplearning.com/) and maths behind it.
-
-## Deep Learning
-1. Convolutional Neural Networks: [Stanford Course 231n](http://cs231n.stanford.edu)
-2. Deep Learning Specialaization by Andrew Ng: [deeplearning.ai](https://www.deeplearning.ai/)
-3. First Course of Advanced Machine Learning Specialization: [Intro to Deep Learning](https://www.coursera.org/learn/intro-to-deep-learning/)
-
-## Natural Language Processing
-1. Deep Learning for NLP: [Stanford CS224D](http://cs224d.stanford.edu/)
-2. NLTK Library: [NLTK](http://www.nltk.org/)
-
-## Reinforcement Learning
-1. RL course: [By David Silver](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
-2. CS229 Machine Learning by Andrew NG: [Lecture 16](https://www.youtube.com/watch?v=RtxI449ZjSc&feature=relmfu)
-3. Reinforcement Learning: An Introduction (1st Edition, 1998) by Richard Sutton and Andrew Barto: [Book](http://incompleteideas.net/book/ebook/the-book.html), [Code](http://incompleteideas.net/book/code/code.html)
-
-## Libraries
-1. scikit-learn: [Tutorials on ScikitLearn's official website](http://scikit-learn.org/stable/tutorial/index.html)
-2. Numpy and Pandas: [Course](https://www.udacity.com/course/intro-to-data-analysis--ud170)
-3. Matplotlib: [Introduction](https://www.datacamp.com/community/tutorials/matplotlib-tutorial-python) | [Reference](https://www.labri.fr/perso/nrougier/teaching/matplotlib/)
-4. OpenCV: [Short Tutorials and Recipes](https://www.pyimagesearch.com)
-
-## Useful sites
-1. [Towards Data Science](https://towardsdatascience.com/)
-2. [Machine Learning Mastery](https://machinelearningmastery.com/)
-3. [Analytics Vidhya](https://www.analyticsvidhya.com/)
-
 
 # Competitive Programming
 
