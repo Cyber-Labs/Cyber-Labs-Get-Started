@@ -23,7 +23,9 @@ A collection of useful resources to help you get started!
   * [Languages](#languages)
   * [Libraries](#libraries)
   * [Useful Sites](#useful-sites)
-- [Cyber Security/Hacking](https://github.com/Cyber-Labs/Cyber-Labs-Get-Started/blob/master/SECURITY.md)
+- [Cyber Security/Hacking](SECURITY.md)
+  * [Introduction to Ethical Hacking/Pentesting](SECURITY.md#introduction-to-ethical-hackingpentesting)
+    + [How Does Internet Work](SECURITY.md#how-does-internet-work)
 - [Competitive Programming](#competitive-programming)
 - [Hardware](#hardware)
 - [C++](#c)
@@ -42,9 +44,9 @@ A collection of useful resources to help you get started!
 
 **Git**
 
-1. [https://try.github.io/levels/1/challenges/1](https://try.github.io/levels/1/challenges/1) 
+1. [https://try.github.io/levels/1/challenges/1](https://try.github.io/levels/1/challenges/1)
 
-2. [https://www.youtube.com/watch?v=r63f51ce84A](https://www.youtube.com/watch?v=r63f51ce84A) 
+2. [https://www.youtube.com/watch?v=r63f51ce84A](https://www.youtube.com/watch?v=r63f51ce84A)
 
 **Chrome Developer Tools**
 
@@ -61,31 +63,31 @@ A collection of useful resources to help you get started!
 
 **Responsive Design**
 
-1. [https://www.freecodecamp.org/challenges/use-responsive-design-with-bootstrap-fluid-containers](https://www.freecodecamp.org/challenges/use-responsive-design-with-bootstrap-fluid-containers) 
+1. [https://www.freecodecamp.org/challenges/use-responsive-design-with-bootstrap-fluid-containers](https://www.freecodecamp.org/challenges/use-responsive-design-with-bootstrap-fluid-containers)
 
 ### Javascript
 
 **Beginner**
 
-1. Complete Basic Javascript and Object Oriented Section: [https://www.freecodecamp.com/challenges/comment-your-javascript-code](https://www.freecodecamp.com/challenges/comment-your-javascript-code) 
+1. Complete Basic Javascript and Object Oriented Section: [https://www.freecodecamp.com/challenges/comment-your-javascript-code](https://www.freecodecamp.com/challenges/comment-your-javascript-code)
 
 2. [https://javascript30.com/](https://javascript30.com/)
 
 3. **To Do**: Build you own portfolio
 
-	
+
 
 **Intermediate**
 
-1. Comprehensive Books - 
-	- [https://github.com/getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) 
+1. Comprehensive Books -
+	- [https://github.com/getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
 	- [http://eloquentjavascript.net](http://eloquentjavascript.net)
 
-2. Object Oriented Javascript [https://www.udacity.com/course/object-oriented-javascript--ud015](https://www.udacity.com/course/object-oriented-javascript--ud015) 
+2. Object Oriented Javascript [https://www.udacity.com/course/object-oriented-javascript--ud015](https://www.udacity.com/course/object-oriented-javascript--ud015)
 
 **Reference**
 
-[https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
+[https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## BackEnd
 
@@ -105,7 +107,7 @@ A collection of useful resources to help you get started!
 1. [Spring MVC Architecture](https://www.youtube.com/watch?v=qHllF5pl1PA)
 2. [Basics: Building a RESTful web service in spring](https://spring.io/guides/gs/rest-service/)
 3. [Chapter 1(The IoC container) from here](https://docs.spring.io/spring/docs/5.0.7.RELEASE/spring-framework-reference/core.html#beans)
-  
+
    **NOTE** - avoid XML based bean configuration as it is outdated and study annotation based bean configuration only.
 
 4. [Chapter 1(Spring Web MVC) from here](https://docs.spring.io/spring/docs/5.0.7.RELEASE/spring-framework-reference/web.html#mvc)
@@ -121,19 +123,19 @@ A collection of useful resources to help you get started!
 
 1. [https://in.udacity.com/course/intro-to-java-programming--cs046](https://in.udacity.com/course/intro-to-java-programming--cs046)
 
- 
+
 
 ## Beginner
 
-1. [https://www.udacity.com/course/android-development-for-beginners--ud837](https://www.udacity.com/course/android-development-for-beginners--ud837) 
+1. [https://www.udacity.com/course/android-development-for-beginners--ud837](https://www.udacity.com/course/android-development-for-beginners--ud837)
 
-2. [http://www.vogella.de/articles/Android/article.html](http://www.vogella.de/articles/Android/article.html) 
+2. [http://www.vogella.de/articles/Android/article.html](http://www.vogella.de/articles/Android/article.html)
 
 ## Intermediate
 
-1. Material Design: Navigation Drawer,  Recycler View etc: [Android Material Design Tutorial Playlist on YouTube](https://www.youtube.com/playlist?list=PLonJJ3BVjZW6CtAMbJz1XD8ELUs1KXaTD) 
+1. Material Design: Navigation Drawer,  Recycler View etc: [Android Material Design Tutorial Playlist on YouTube](https://www.youtube.com/playlist?list=PLonJJ3BVjZW6CtAMbJz1XD8ELUs1KXaTD)
 
-2. Official guide from Google Developers: [Developer Guides](https://developer.android.com/training/index.html) 
+2. Official guide from Google Developers: [Developer Guides](https://developer.android.com/training/index.html)
 
 Must follow: [Andoid section on the Mindorks blog](https://blog.mindorks.com/category/android.html)       
 
@@ -164,7 +166,7 @@ Must follow: [Andoid section on the Mindorks blog](https://blog.mindorks.com/cat
 
 6. Naive Bayes: [Article](https://towardsdatascience.com/naive-bayes-in-machine-learning-f49cc8f831b4)
 
-## Practice 
+## Practice
 1. [Kaggle](https://www.kaggle.com/)
 2. [Analytics Vidhya](https://www.analyticsvidhya.com/)
 
@@ -187,7 +189,7 @@ Must follow: [Andoid section on the Mindorks blog](https://blog.mindorks.com/cat
 2. Numpy and Pandas: [Course](https://www.udacity.com/course/intro-to-data-analysis--ud170)
 3. Matplotlib: [Introduction](https://www.datacamp.com/community/tutorials/matplotlib-tutorial-python) | [Reference](https://www.labri.fr/perso/nrougier/teaching/matplotlib/)
 4. OpenCV: [Short Tutorials and Recipes](https://www.pyimagesearch.com)
- 
+
 ## Useful sites
 1. [Towards Data Science](https://towardsdatascience.com/)
 2. [Machine Learning Mastery](https://machinelearningmastery.com/)
@@ -196,9 +198,9 @@ Must follow: [Andoid section on the Mindorks blog](https://blog.mindorks.com/cat
 
 # Competitive Programming
 
-1. List of topics to be covered along with tutorials: [Data-structures-and-algorithms](https://discuss.codechef.com/questions/48877/data-structures-and-algorithms) 
-2. List of tutorials on different topics: [Algorithmic-Resources](https://github.com/hkirat/Algorithmic-Resources) 
-3. Articles published on Hackerrank: [HackerRank-Topics](https://github.com/manoharreddyporeddy/HackerRank-Topics) 
+1. List of topics to be covered along with tutorials: [Data-structures-and-algorithms](https://discuss.codechef.com/questions/48877/data-structures-and-algorithms)
+2. List of tutorials on different topics: [Algorithmic-Resources](https://github.com/hkirat/Algorithmic-Resources)
+3. Articles published on Hackerrank: [HackerRank-Topics](https://github.com/manoharreddyporeddy/HackerRank-Topics)
 4. Practice: [Codeforces](http://codeforces.com/) | [Codechef](http://www.codechef.com/) | [Hackerrank](https://www.hackerrank.com/)      
 
 
@@ -222,4 +224,3 @@ Must follow: [Andoid section on the Mindorks blog](https://blog.mindorks.com/cat
 **STL**
 
 1. [Challenges on HackerEarth](https://www.hackerearth.com/practice/notes/standard-template-library/)
-    
