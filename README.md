@@ -2,18 +2,18 @@
 A collection of useful resources to help you get started!
 
 # Table of Contents
-- [Computer Basics](#computer-basics)
-- [Web](#web)
+- **[Computer Basics](#computer-basics)**
+- **[Web](#web)**
     + [Roadmap](#roadmap)
     + [Essentials](#essentials)
   * [FrontEnd](#frontend)
   * [Javascript](#javascript)
   * [BackEnd](#backend)
-- [Android](#android)
+- **[Android](#android)**
   * [Java](#java)
   * [Beginner](#beginner)
   * [Intermediate](#intermediate)
-- [Machine Learning](Machine-Learning.md)
+- **[Machine Learning](Machine-Learning.md)**
   * [Start here](Machine-Learning.md#start-here)
   * [Learn Python for Machine Learning](Machine-Learning.md#learn-python-for-machine-learning)
   * [Common ML Algorithms](Machine-Learning.md#common-ml-algorithms)
@@ -26,14 +26,14 @@ A collection of useful resources to help you get started!
     + [Natural Language Processing](Machine-Learning.md#natural-language-processing)
     + [Reinforcement Learning](Machine-Learning.md#reinforcement-learning)
   * [A few more useful resources](Machine-Learning.md#a-few-more-useful-resources)
-- [Cyber Security/Hacking](SECURITY.md)
+- **[Cyber Security/Hacking](SECURITY.md)**
   * [Introduction to Ethical Hacking/Pentesting](SECURITY.md#introduction-to-ethical-hackingpentesting)
     + [How Does The Internet Work](SECURITY.md#how-does-the-internet-work)
-- [Competitive Programming](#competitive-programming)
-- [Hardware](#hardware)
-- [C++](#c)
-- [Open Source](#open-source)
-- [Graphic Design](Graphic-Design.md#graphic-design)
+- **[Competitive Programming](#competitive-programming)**
+  * [C++](#c)
+- **[Hardware](#hardware)**
+- **[Open Source](#open-source)**
+- **[Graphic Design](Graphic-Design.md#graphic-design)**
   * [Adobe Photoshop](Graphic-Design.md#adobe-photoshop)
   * [Adobe Illustrator](Graphic-Design.md#adobe-illustrator)
   * [Blender](Graphic-Design.md#blender)
@@ -146,10 +146,13 @@ Must follow: [Andoid section on the Mindorks blog](https://blog.mindorks.com/cat
 
 # Competitive Programming
 
-1. List of topics to be covered along with tutorials: [Data-structures-and-algorithms](https://discuss.codechef.com/questions/48877/data-structures-and-algorithms)
-2. List of tutorials on different topics: [Algorithmic-Resources](https://github.com/hkirat/Algorithmic-Resources)
-3. Articles published on Hackerrank: [HackerRank-Topics](https://github.com/manoharreddyporeddy/HackerRank-Topics)
-4. Practice: [Codeforces](http://codeforces.com/) | [Codechef](http://www.codechef.com/) | [Hackerrank](https://www.hackerrank.com/)      
+- List of topics to be covered along with tutorials: [Data-structures-and-algorithms](https://discuss.codechef.com/questions/48877/data-structures-and-algorithms)
+- List of tutorials on different topics: [Algorithmic-Resources](https://github.com/hkirat/Algorithmic-Resources)
+- Articles published on Hackerrank: [HackerRank-Topics](https://github.com/manoharreddyporeddy/HackerRank-Topics)
+- Practice: [Codeforces](http://codeforces.com/) | [Codechef](http://www.codechef.com/) | [Hackerrank](https://www.hackerrank.com/)      
+
+### C++
+- **STL**: [Challenges on HackerEarth](https://www.hackerearth.com/practice/notes/standard-template-library/)
 
 
 # Open Source
@@ -163,9 +166,3 @@ Must follow: [Andoid section on the Mindorks blog](https://blog.mindorks.com/cat
 1. **Basic Arduino tutorials** - [Tutorials on YouTube](https://m.youtube.com/user/sciguy14)
 2. **Practice using simulator online** - [Circuits.io](https://circuits.io)
 3. **Projects,Tutorials, Hackathons and Contests** - [Hackster.io](https://www.hackster.io/)
-
-# C++
-
-**STL**
-
-1. [Challenges on HackerEarth](https://www.hackerearth.com/practice/notes/standard-template-library/)
