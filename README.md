@@ -20,6 +20,7 @@ A collection of useful resources to help you get started!
   * [Neural Networks](#neural-networks)
   * [Deep Learning](#deep-learning)
   * [Natural Language Processing](#natural-language-processing)
+  * [Reinforcement Learning](#reinforcement-learning)
   * [Languages](#languages)
   * [Libraries](#libraries)
   * [Useful Sites](#useful-sites)
@@ -183,6 +184,11 @@ Must follow: [Andoid section on the Mindorks blog](https://blog.mindorks.com/cat
 ## Natural Language Processing
 1. Deep Learning for NLP: [Stanford CS224D](http://cs224d.stanford.edu/)
 2. NLTK Library: [NLTK](http://www.nltk.org/)
+
+## Reinforcement Learning
+1. RL course: [By David Silver](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
+2. CS229 Machine Learning by Andrew NG: [Lecture 16](https://www.youtube.com/watch?v=RtxI449ZjSc&feature=relmfu)
+3. Reinforcement Learning: An Introduction (1st Edition, 1998) by Richard Sutton and Andrew Barto: [Book](http://incompleteideas.net/book/ebook/the-book.html), [Code](http://incompleteideas.net/book/code/code.html)
 
 ## Libraries
 1. scikit-learn: [Tutorials on ScikitLearn's official website](http://scikit-learn.org/stable/tutorial/index.html)
