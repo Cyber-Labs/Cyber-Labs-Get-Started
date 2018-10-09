@@ -223,3 +223,19 @@ Must follow: [Andoid section on the Mindorks blog](https://blog.mindorks.com/cat
 
 1. [Challenges on HackerEarth](https://www.hackerearth.com/practice/notes/standard-template-library/)
     
+# Graphic Design
+
+##  Adobe Photoshop
+
+1. **Beginners** - [Tutorial on YouTube](https://www.youtube.com/playlist?list=PLYfCBK8IplO6v0QjCj-TSrFUXnRV0WxfE)
+2. **Intermediate** - [Tutorial on YouTube](https://www.youtube.com/playlist?list=PLSoOtQkDh8ByH7x6eQfjVt09V9GJMxL2Z)
+3. **Advance** - [Tutorial on YouTube](https://www.youtube.com/playlist?list=PLSoOtQkDh8BzAkcdCb1nps3R3oz5M4AKf)
+
+## Adobe Illustrator 
+
+1. **Beginners** - [Tutorial on YouTube](https://www.youtube.com/playlist?list=PLYfCBK8IplO4X-jM1Rp43wAIdpP2XNGwP)
+2. **Intermediate** - [Tutorial on YouTube](https://www.youtube.com/playlist?list=PLwnXQvUxjbNsvCG_rJJ8vzhbqtEjphKsf)
+
+## Blender
+
+1. [Tutorial on YouTube](https://www.youtube.com/user/AndrewPPrice)
