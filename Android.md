@@ -35,6 +35,10 @@
 ## Other Resources
 - [Androidhive - Tutorials](https://www.androidhive.info/)
 - [AndroidPub - Tutorials](https://android.jlelse.eu/)
+
+- [The complete Android N developer Course-Udemy](https://www.udemy.com/complete-android-n-developer-course/)
+	[The complete Android N developer Course-Google Drive link](https://drive.google.com/uc?id=0B5cFO_fEeE4bekpUZVBLV011TG8&export=download)
+- [Android Developers - Youtube](https://www.youtube.com/user/androiddevelopers)
 - [Organizing Code: Java Style guide](http://google.github.io/styleguide/javaguide.html)
 - [Best practices in Android development](https://github.com/futurice/android-best-practices)
 - [A great arsenal of Android libraries, tools and apps](https://android-arsenal.com/)
