@@ -9,10 +9,7 @@ A collection of useful resources to help you get started!
   * [FrontEnd](#frontend)
   * [Javascript](#javascript)
   * [BackEnd](#backend)
-- **[Android](#android)**
-  * [Java](#java)
-  * [Beginner](#beginner)
-  * [Intermediate](#intermediate)
+- **[Android](Android.md#android)**
 - **[Machine Learning](Machine-Learning.md)**
   * [Start here](Machine-Learning.md#start-here)
   * [Learn Python for Machine Learning](Machine-Learning.md#learn-python-for-machine-learning)
