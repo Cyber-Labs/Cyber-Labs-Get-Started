@@ -15,6 +15,10 @@
 #### DOM:
 1. [DOM Crash Course Playlist](https://www.youtube.com/watch?v=0ik6X4DJKCc&list=PLillGF-RfqbYE6Ik_EuXA2iZFcE082B3s)
 
+#### React.js:
+1. [The Beginner's Guide to ReactJS](https://egghead.io/lessons/react-introduction-to-the-beginner-s-guide-to-reactjs)
+2. [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
+
 #### Reading Resources:
 1. [W3Schools](https://www.w3schools.com/)
 2. [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Learn)
@@ -24,25 +28,25 @@
 2. [Basic AJAX Project](https://www.youtube.com/watch?v=tUE2Nic21BA)
 
 ### Recommended Books (Followed in Cyberlabs)
-1. [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
+1. [You don't know JS](https://maximdenisov.gitbooks.io/you-don-t-know-js/content/)
 2. [Eloquent JavaScript](http://eloquentjavascript.net)
 
 
 ## BackEnd
 
-**NodeJS**
+#### NodeJS
 
 1. Start with learnyounode workshopper - [https://nodeschool.io/](https://nodeschool.io/)
 
-**Django**
+#### Django
 
 1. [CodeSchool](https://www.codeschool.com/courses/try-django)
 2. [Djangogirls](https://tutorial.djangogirls.org/en/)
 
-**Flask**
+#### Flask
 1. Official docs are very good. Find them here: - http://flask.pocoo.org/
 
-**Spring**
+#### Spring
 1. [Spring MVC Architecture](https://www.youtube.com/watch?v=qHllF5pl1PA)
 2. [Basics: Building a RESTful web service in spring](https://spring.io/guides/gs/rest-service/)
 3. [Chapter 1(The IoC container) from here](https://docs.spring.io/spring/docs/5.0.7.RELEASE/spring-framework-reference/core.html#beans)
