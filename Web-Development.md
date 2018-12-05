@@ -14,7 +14,7 @@
 #### JavaScript
 1. [JavaScript Fundamentals Crash Course](https://www.youtube.com/watch?v=vEROU2XtPR8)
 2. [Introduction to JavaScript (Interactive Course)](https://scrimba.com/g/gintrotojavascript)
-3. [Javascript Playlist](https://www.youtube.com/watch?v=yQaAGmHNn9s&list=PL46F0A159EC02DF82)
+3. [Javascript Playlist](https://frontendmasters.com/courses/javascript-basics/) (You need to register to view this **free** course)
 4. [Projects] [Fundamental Vanilla JavaScript with some basic projects](https://www.youtube.com/watch?v=vEROU2XtPR8&list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX)
 
 #### DOM:
@@ -46,7 +46,7 @@
 ## BackEnd
 
 #### NodeJS
-
+You need to learn JavaScript first (using the path given above)
 1. Start with learnyounode workshopper - [https://nodeschool.io/](https://nodeschool.io/)
 2. [Learn Node.js in a Week: Screencast](https://ilovecoding.org/courses/nodejs)
 
