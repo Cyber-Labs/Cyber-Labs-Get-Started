@@ -21,6 +21,7 @@
 1. [DOM Crash Course Playlist](https://www.youtube.com/watch?v=0ik6X4DJKCc&list=PLillGF-RfqbYE6Ik_EuXA2iZFcE082B3s)
 
 #### [Advanced JS] ES6
+1. [ES6 JavaScript Tutorial for Beginners](https://www.youtube.com/watch?v=IEf1KAcK6A8)
 2. [Introduction to ES6](https://scrimba.com/playlist/p4Mrt9)
 
 #### [Advanced] React.js:
