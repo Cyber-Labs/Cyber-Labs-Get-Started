@@ -14,6 +14,7 @@
 ## Path-2 
 
 ### Beginner
+
 - **Java Programming Basics** - [Course on Udacity](https://in.udacity.com/course/java-programming-basics--ud282)
 - **Android Basics: User Input by Google** - [Course on Udacity](https://in.udacity.com/course/android-basics-user-input--ud836)
 - **Android Basics: Multiscreen Apps by Google** - [Course on Udacity](https://in.udacity.com/course/android-basics-multiscreen-apps--ud839)
@@ -22,6 +23,7 @@
 
 ### Intermediate
 - **Object Oriented Programming in Java** - [Course on Udacity](https://in.udacity.com/course/object-oriented-programming-in-java--ud283)
+- **Java Tutorials by Derek Banas** - [Java Video Tutorial](https://www.youtube.com/playlist?list=PLE7E8B7F4856C9B19)
 - **Developing Android Apps by Google** - [Course on Udacity](https://in.udacity.com/course/new-android-fundamentals--ud851)
 - **Firebase in a Weekend: Android by Google** - [Course on Udacity](https://in.udacity.com/course/firebase-in-a-weekend-by-google-android--ud0352)
 - **Material Design for Android Developers by Google** - [Course on Udacity](https://in.udacity.com/course/material-design-for-android-developers--ud862)
