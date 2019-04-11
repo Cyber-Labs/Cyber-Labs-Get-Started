@@ -15,7 +15,8 @@
 1. [JavaScript Fundamentals Crash Course](https://www.youtube.com/watch?v=vEROU2XtPR8)
 2. [Introduction to JavaScript (Interactive Course)](https://scrimba.com/g/gintrotojavascript)
 3. [Javascript Playlist](https://frontendmasters.com/courses/javascript-basics/) (You need to register to view this **free** course)
-4. [Projects] [Fundamental Vanilla JavaScript with some basic projects](https://www.youtube.com/watch?v=vEROU2XtPR8&list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX)
+4. Highly recommended beginners projects [javascript30.com](https://javascript30.com/)
+5. [Projects] [Fundamental Vanilla JavaScript with some basic projects](https://www.youtube.com/watch?v=vEROU2XtPR8&list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX)
 
 #### DOM:
 1. [DOM Crash Course Playlist](https://www.youtube.com/watch?v=0ik6X4DJKCc&list=PLillGF-RfqbYE6Ik_EuXA2iZFcE082B3s)
