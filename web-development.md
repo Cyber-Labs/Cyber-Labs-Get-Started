@@ -1,4 +1,4 @@
-# Web Development:
+# Web Development
 
 ## FrontEnd:
 
@@ -11,6 +11,8 @@
 5. [HTML/CSS Playlist](https://www.youtube.com/watch?v=cqszz_OfAFQ&list=PLC1322B5A0180C946)
 6. \[Project\] [How to build a Beautiful Blog](https://scrimba.com/g/gbuildablog)
 7. \[Optional\] CSS Frameworks: [Bulma](https://scrimba.com/g/gbulma) or  [Bootstrap 4](https://scrimba.com/g/gbootstrap4)
+8. [Positioning](http://learnlayout.com/position.html)
+9. [Responsive Navigation Bar](https://www.taniarascia.com/responsive-dropdown-navigation-bar/)
 
 #### JavaScript
 

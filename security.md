@@ -1,4 +1,4 @@
-# Introduction to Ethical Hacking/Pentesting.
+# Introduction to Ethical Hacking/Pentesting
 
 **Follow these steps to get started:** 1. Install linux on your system. **Kali Linux** recommended. Download `iso` from [here](https://www.kali.org/downloads/). 2. Learn basic linux commands. 3. Learn the basics of some programming languages \(`HTML/CSS`, `JS`, `PHP`, `SQL`, `Python`\) For basics and in-short tutorials, watch [Derek's videos on YouTube](https://www.youtube.com/playlist?list=PLGLfVvz_LVvSX7fVd4OUFp_ODd86H0ZIY)
 
