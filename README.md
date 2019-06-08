@@ -7,8 +7,7 @@ description: A collection of useful resources to help you get started
 ## Table of Contents
 
 * [**Computer Basics**](./#computer-basics)
-* [**Linux**]
-  * [Excellent Linux tutorial](https://ryanstutorials.net/linuxtutorial/)
+* [**Linux**](./#linux)
 * [**Web**](web-development.md)
   * [FrontEnd](web-development.md#frontend)
   * [BackEnd](web-development.md#backend)
@@ -41,6 +40,12 @@ description: A collection of useful resources to help you get started
 ### Computer Basics
 
 [https://www.freecodecamp.org/videos/computer-basics-the-4-basic-parts-of-a-computer](https://www.freecodecamp.org/videos/computer-basics-the-4-basic-parts-of-a-computer)
+
+
+## Linux
+
+[Excellent Linux tutorial](https://ryanstutorials.net/linuxtutorial/)
+
 
 ## Competitive Programming
 
