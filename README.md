@@ -7,6 +7,8 @@ description: A collection of useful resources to help you get started
 ## Table of Contents
 
 * [**Computer Basics**](./#computer-basics)
+* [**Linux**]
+  * [Excellent Linux tutorial](https://ryanstutorials.net/linuxtutorial/)
 * [**Web**](web-development.md)
   * [FrontEnd](web-development.md#frontend)
   * [BackEnd](web-development.md#backend)
