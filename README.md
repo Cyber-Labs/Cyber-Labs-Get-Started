@@ -41,11 +41,9 @@ description: A collection of useful resources to help you get started
 
 [https://www.freecodecamp.org/videos/computer-basics-the-4-basic-parts-of-a-computer](https://www.freecodecamp.org/videos/computer-basics-the-4-basic-parts-of-a-computer)
 
-
 ## Linux
 
 [Excellent Linux tutorial](https://ryanstutorials.net/linuxtutorial/)
-
 
 ## Competitive Programming
 
