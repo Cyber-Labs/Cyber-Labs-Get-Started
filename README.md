@@ -2,7 +2,7 @@
 description: A collection of useful resources to help you get started
 ---
 
-# Cyber Labs - Getting Started
+# [Cyber Labs - Getting Started](https://cyberlabs.gitbook.io/getting-started/)
 
 ## Table of Contents
 
