@@ -27,6 +27,7 @@ description: A collection of useful resources to help you get started
   * [A few more useful resources](machine-learning.md#a-few-more-useful-resources)
 * [**Cyber Security/Hacking**](security.md)
   * [Introduction to Ethical Hacking/Pentesting](security.md#introduction-to-ethical-hackingpentesting)
+  * [CTF-Tools](https://github.com/infosec-cyberlabs/Tools)
     * [How Does The Internet Work](security.md#how-does-the-internet-work)
 * [**Competitive Programming**](./#competitive-programming)
   * [C++](./#c)
