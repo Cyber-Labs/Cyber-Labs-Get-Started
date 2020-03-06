@@ -31,6 +31,8 @@
 1. [JavaScript: Understanding the Weird Parts](https://www.youtube.com/watch?v=Bv_5Zv5c-Ts)
 2. [ES6 JavaScript Tutorial for Beginners](https://www.youtube.com/watch?v=IEf1KAcK6A8)
 3. [Introduction to ES6](https://scrimba.com/playlist/p4Mrt9)
+4. [ES6 (Video Tutorial](https://www.youtube.com/watch?v=WZQc7RUAg18)
+5. [ES6 (Freecodecamp)](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/)
 
 #### \[Framework\] React.js:
 
@@ -59,8 +61,24 @@
 
 #### NodeJS
 
-You need to learn JavaScript first \(using the path given above\) 1. Start with learnyounode workshopper - [https://nodeschool.io/](https://nodeschool.io/) 2. [Learn Node.js in a Week: Screencast](https://ilovecoding.org/courses/nodejs)
+You need to learn JavaScript first \(using the path given above\) 
+1. [Node.js Beginners course](https://www.youtube.com/watch?v=RLtyhwFtXQA)
+2. Start with learnyounode workshopper - [https://nodeschool.io/](https://nodeschool.io/)
+3. [Learn Node.js in a Week: Screencast](https://ilovecoding.org/courses/nodejs)
+4. [MDN Node/Express](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs) (go through all the tutorials)
 
+### ReactJS
+1. [Docs from reactjs.org](reactjs.org)
+
+#### Express
+ 1. [Express Docs](https://expressjs.com/) (go through all the guides)
+ 
+ ### Mongoose
+ 1. [Mongoose Docs](https://mongoosejs.com/docs/)
+ 
+ ### MongoDB
+ 1. [MongoDB](https://www.youtube.com/watch?v=-56x56UppqQ)
+ 
 #### Django
 
 1. [CodeSchool](https://www.codeschool.com/courses/try-django)
@@ -75,10 +93,11 @@ You need to learn JavaScript first \(using the path given above\) 1. Start with 
 1. [Spring MVC Architecture](https://www.youtube.com/watch?v=qHllF5pl1PA)
 2. [Basics: Building a RESTful web service in spring](https://spring.io/guides/gs/rest-service/)
 3. [Chapter 1\(The IoC container\) from here](https://docs.spring.io/spring/docs/5.0.7.RELEASE/spring-framework-reference/core.html#beans)
-
    **NOTE** - avoid XML based bean configuration as it is outdated and study annotation based bean configuration only.
-
 4. [Chapter 1\(Spring Web MVC\) from here](https://docs.spring.io/spring/docs/5.0.7.RELEASE/spring-framework-reference/web.html#mvc)
-5. For dealing with REST APIs in spring: a. [RestTemplate](https://docs.spring.io/spring/docs/5.0.7.RELEASE/spring-framework-reference/integration.html#rest-client-access) b. [WebClient](https://docs.spring.io/spring/docs/5.0.7.RELEASE/spring-framework-reference/web-reactive.html#webflux-client)
-6. [MySQL and Spring](https://spring.io/guides/gs/accessing-data-mysql/)
+5. [MySQL and Spring](https://spring.io/guides/gs/accessing-data-mysql/)
 
+ ### API
+ 1. [Do APIs and Microservices Certification](https://www.freecodecamp.org/learn/)
+ 2. [Node.js RESTful API](https://youtu.be/o3ka5fYysBM)
+ 3. For dealing with REST APIs in spring: a. [RestTemplate](https://docs.spring.io/spring/docs/5.0.7.RELEASE/spring-framework-reference/integration.html#rest-client-access) b. [WebClient](https://docs.spring.io/spring/docs/5.0.7.RELEASE/spring-framework-reference/web-reactive.html#webflux-client)
