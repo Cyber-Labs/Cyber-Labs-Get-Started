@@ -59,7 +59,7 @@
 
 ## BackEnd
 
-#### NodeJS
+##### NodeJS
 
 You need to learn JavaScript first \(using the path given above\) 
 1. [Node.js Beginners course](https://www.youtube.com/watch?v=RLtyhwFtXQA)
@@ -67,16 +67,16 @@ You need to learn JavaScript first \(using the path given above\)
 3. [Learn Node.js in a Week: Screencast](https://ilovecoding.org/courses/nodejs)
 4. [MDN Node/Express](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs) (go through all the tutorials)
 
-### ReactJS
+#### ReactJS
 1. [Docs from reactjs.org](reactjs.org)
 
 #### Express
  1. [Express Docs](https://expressjs.com/) (go through all the guides)
  
- ### Mongoose
+ #### Mongoose
  1. [Mongoose Docs](https://mongoosejs.com/docs/)
  
- ### MongoDB
+ #### MongoDB
  1. [MongoDB](https://www.youtube.com/watch?v=-56x56UppqQ)
  
 #### Django
@@ -93,6 +93,7 @@ You need to learn JavaScript first \(using the path given above\)
 1. [Spring MVC Architecture](https://www.youtube.com/watch?v=qHllF5pl1PA)
 2. [Basics: Building a RESTful web service in spring](https://spring.io/guides/gs/rest-service/)
 3. [Chapter 1\(The IoC container\) from here](https://docs.spring.io/spring/docs/5.0.7.RELEASE/spring-framework-reference/core.html#beans)
+   
    **NOTE** - avoid XML based bean configuration as it is outdated and study annotation based bean configuration only.
 4. [Chapter 1\(Spring Web MVC\) from here](https://docs.spring.io/spring/docs/5.0.7.RELEASE/spring-framework-reference/web.html#mvc)
 5. [MySQL and Spring](https://spring.io/guides/gs/accessing-data-mysql/)
