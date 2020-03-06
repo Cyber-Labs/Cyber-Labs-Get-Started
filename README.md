@@ -32,6 +32,7 @@ description: A collection of useful resources to help you get started
   * [C++](./#c)
 * [**Hardware**](hardware.md)
 * [**Open Source**](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
+  * [Git/GitHub (Video Tutorial)](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
 * [**Graphic Design**](graphic-design.md#graphic-design)
   * [Adobe Photoshop](graphic-design.md#adobe-photoshop)
   * [Adobe Illustrator](graphic-design.md#adobe-illustrator)
