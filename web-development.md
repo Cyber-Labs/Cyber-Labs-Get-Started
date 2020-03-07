@@ -66,18 +66,24 @@ You need to learn JavaScript first \(using the path given above\)
 2. Start with learnyounode workshopper - [https://nodeschool.io/](https://nodeschool.io/)
 3. [Learn Node.js in a Week: Screencast](https://ilovecoding.org/courses/nodejs)
 4. [MDN Node/Express](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs) (go through all the tutorials)
+5. [Do APIs and Microservices Certification](https://www.freecodecamp.org/learn/)
+6. [Node.js RESTful API](https://youtu.be/o3ka5fYysBM)
 
 #### ReactJS
+
 1. [Docs from reactjs.org](reactjs.org)
 
 #### Express
- 1. [Express Docs](https://expressjs.com/) (go through all the guides)
+
+1. [Express Docs](https://expressjs.com/) (go through all the guides)
  
  #### Mongoose
- 1. [Mongoose Docs](https://mongoosejs.com/docs/)
+ 
+1. [Mongoose Docs](https://mongoosejs.com/docs/)
  
  #### MongoDB
- 1. [MongoDB](https://www.youtube.com/watch?v=-56x56UppqQ)
+ 
+1. [MongoDB](https://www.youtube.com/watch?v=-56x56UppqQ)
  
 #### Django
 
@@ -97,8 +103,4 @@ You need to learn JavaScript first \(using the path given above\)
    **NOTE** - avoid XML based bean configuration as it is outdated and study annotation based bean configuration only.
 4. [Chapter 1\(Spring Web MVC\) from here](https://docs.spring.io/spring/docs/5.0.7.RELEASE/spring-framework-reference/web.html#mvc)
 5. [MySQL and Spring](https://spring.io/guides/gs/accessing-data-mysql/)
-
- ### API
- 1. [Do APIs and Microservices Certification](https://www.freecodecamp.org/learn/)
- 2. [Node.js RESTful API](https://youtu.be/o3ka5fYysBM)
- 3. For dealing with REST APIs in spring: a. [RestTemplate](https://docs.spring.io/spring/docs/5.0.7.RELEASE/spring-framework-reference/integration.html#rest-client-access) b. [WebClient](https://docs.spring.io/spring/docs/5.0.7.RELEASE/spring-framework-reference/web-reactive.html#webflux-client)
+6. For dealing with REST APIs in spring: a. [RestTemplate](https://docs.spring.io/spring/docs/5.0.7.RELEASE/spring-framework-reference/integration.html#rest-client-access) b. [WebClient](https://docs.spring.io/spring/docs/5.0.7.RELEASE/spring-framework-reference/web-reactive.html#webflux-client)
