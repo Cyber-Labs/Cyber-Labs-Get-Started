@@ -48,6 +48,7 @@ description: A collection of useful resources to help you get started
 
 ## Competitive Programming
 
+* A complete roadmap for competitive programming: [CP-Roadmap](https://cp.cyberlabs.club/docs/roadmap/)
 * List of topics to be covered along with tutorials: [Data-structures-and-algorithms](https://discuss.codechef.com/questions/48877/data-structures-and-algorithms)
 * List of tutorials on different topics: [Algorithmic-Resources](https://github.com/hkirat/Algorithmic-Resources)
 * Articles published on Hackerrank: [HackerRank-Topics](https://github.com/manoharreddyporeddy/HackerRank-Topics)
@@ -55,5 +56,4 @@ description: A collection of useful resources to help you get started
 
 #### C++
 
-* **STL**: [Challenges on HackerEarth](https://www.hackerearth.com/practice/notes/standard-template-library/)
-
+* **STL**: [Tutorials on STL](https://cp.cyberlabs.club/docs/roadmap/stl/stl-tutorials)
