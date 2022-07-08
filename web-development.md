@@ -103,3 +103,6 @@ You need to learn JavaScript first \(using the path given above\)
 4. [Chapter 1\(Spring Web MVC\) from here](https://docs.spring.io/spring/docs/5.0.7.RELEASE/spring-framework-reference/web.html#mvc)
 5. [MySQL and Spring](https://spring.io/guides/gs/accessing-data-mysql/)
 6. For dealing with REST APIs in spring: a. [RestTemplate](https://docs.spring.io/spring/docs/5.0.7.RELEASE/spring-framework-reference/integration.html#rest-client-access) b. [WebClient](https://docs.spring.io/spring/docs/5.0.7.RELEASE/spring-framework-reference/web-reactive.html#webflux-client)
+
+#### Ruby on Rails
+[Beginner's Guide](https://revelry.co/rails-beginners-guide/)
