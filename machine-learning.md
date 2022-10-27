@@ -4,13 +4,13 @@ One of the fastest growing technologies of 21st century, machine learning finds 
 
 ## Start here
 
-* Start with [Machine Learning](https://www.coursera.org/learn/machine-learning) course on Coursera by Stanford University. 
+* Start with [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) course on Coursera by Stanford University. 
 
   Instructed by Andrew Ng, this course covers all the basics you need to get off in the field. Based on Stanford's CS229 course.
 
 ## Learn Python for Machine Learning
 
-The course mentioned above uses Matlab as its primary programming language. However, Python is widely preferred language in the real world applications. Now that you have sufficient knowledge about machine learning, get down to implementing the ML algorithms and do some toy projects using Python this time.
+The course mentioned above uses Python as its primary programming language. Python is widely preferred language in the real world applications. Now that you have sufficient knowledge about machine learning, get down to implementing the ML algorithms and do some toy projects using Python.
 
 * Learn Python here: [Lectures by Sentdex](https://pythonprogramming.net/)
 
@@ -37,7 +37,8 @@ The following algorithms are not covered in the Machine Learning course on Cours
 
 ## Learn high-level frameworks
 
-Once you have mastered the basics, there's no need to reinvent the wheel and spend hours implementing a simple algorithm. There are dedicated libraries for quickly prototyping commonly used machine learning algorithms and techniques.
+Once you have mastered the basics, there's no need to reinvent the wheel an
+'d spend hours implementing a simple algorithm. There are dedicated libraries for quickly prototyping commonly used machine learning algorithms and techniques.
 
 * `scikit-learn`: Contains implementations for almost all of the widely used algorithms in machine learning. [Tutorials on ScikitLearn's official website](http://scikit-learn.org/stable/tutorial/index.html)
 * `TensorFlow` and `Keras`: Currently the most widely used libraries in the field of **Deep Learning** \(a subset of machine learning that deals
