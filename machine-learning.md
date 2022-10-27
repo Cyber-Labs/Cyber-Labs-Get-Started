@@ -37,8 +37,7 @@ The following algorithms are not covered in the Machine Learning course on Cours
 
 ## Learn high-level frameworks
 
-Once you have mastered the basics, there's no need to reinvent the wheel an
-'d spend hours implementing a simple algorithm. There are dedicated libraries for quickly prototyping commonly used machine learning algorithms and techniques.
+Once you have mastered the basics, there's no need to reinvent the wheel and spend hours implementing a simple algorithm. There are dedicated libraries for quickly prototyping commonly used machine learning algorithms and techniques.
 
 * `scikit-learn`: Contains implementations for almost all of the widely used algorithms in machine learning. [Tutorials on ScikitLearn's official website](http://scikit-learn.org/stable/tutorial/index.html)
 * `TensorFlow` and `Keras`: Currently the most widely used libraries in the field of **Deep Learning** \(a subset of machine learning that deals
