@@ -24,7 +24,8 @@
  [Javascript Playlist](https://youtube.com/playlist?list=PLu0W_9lII9ahR1blWXxgSlL4y9iQBnLpR)[hindi]
 
 4. Highly recommended beginners projects [javascript30.com](https://javascript30.com/)
-5. \[Projects\] (https://youtube.com/playlist?list=PLNCevxogE3fgy0pAzVccadWKaQp9iHspz)
+5. \[Projects\] [https://youtube.com/playlist?list=PLNCevxogE3fgy0pAzVccadWKaQp9iHspz](https://youtube.com/playlist?list=PLNCevxogE3fgy0pAzVccadWKaQp9iHspz)
+
 #### DOM:
 
 1. [DOM Crash Course Playlist](https://youtube.com/playlist?list=PL4cUxeGkcC9gfoKa5la9dsdCNpuey2s-V)
@@ -40,15 +41,21 @@
 #### Python
 
 ##### TKinter
+
 1.[TKinter Doc](https://docs.python.org/3/library/tkinter.html)
+
 2.[TKinter GFG  Doc](https://www.geeksforgeeks.org/python-gui-tkinter/)
+
 3.[TKinter playlist](https://youtube.com/playlist?list=PLCC34OHNcOtoC6GglhF3ncJ5rLwQrLGnV)
 
 
 
 ##### Streamlit
+
 1.[Streamlit Doc](https://docs.streamlit.io/)
+
 2.[Streamlit Crash Course](https://youtu.be/_9WiB2PDO7k)
+
 3.[Streamlit Tutorial Playlist](https://youtube.com/playlist?list=PLgkF0qak9G4-TC9_tKW1V4GRcJ9cdmnlx)
 
 
@@ -85,8 +92,8 @@
 You need to learn JavaScript first \(using the path given above\)
 
 1. [Node.js Beginners Playlist]
-1-https://www.youtube.com/playlist?list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp
-2-https://youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU
+  [Playlist 1](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)
+  [Playlist 2](https://youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU)
 
 2. Start with learnyounode workshopper - [https://nodeschool.io/](https://nodeschool.io/)
 3. [Doc for Node JS](https://nodejs.org/en/docs/)
