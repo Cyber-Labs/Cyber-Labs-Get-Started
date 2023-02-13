@@ -37,6 +37,22 @@
 4. [ES6 (Video Tutorial)](https://www.youtube.com/watch?v=WZQc7RUAg18)
 5. [ES6 (Freecodecamp)](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/)
 
+#### Python
+
+##### TKinter
+1.[TKinter Doc](https://docs.python.org/3/library/tkinter.html)
+2.[TKinter GFG  Doc](https://www.geeksforgeeks.org/python-gui-tkinter/)
+3.[TKinter playlist](https://youtube.com/playlist?list=PLCC34OHNcOtoC6GglhF3ncJ5rLwQrLGnV)
+
+
+
+##### Streamlit
+1.[Streamlit Doc](https://docs.streamlit.io/)
+2.[Streamlit Crash Course](https://youtu.be/_9WiB2PDO7k)
+3.[Streamlit Tutorial Playlist](https://youtube.com/playlist?list=PLgkF0qak9G4-TC9_tKW1V4GRcJ9cdmnlx)
+
+
+
 #### \[Framework\] React.js:
 
 1. [Docs from reactjs.org](https://reactjs.org/)
@@ -101,7 +117,7 @@ You need to learn JavaScript first \(using the path given above\)
 #### Flask
 
 1. Official docs are very good. Find them here: - [http://flask.pocoo.org/](http://flask.pocoo.org/)
-2.[ Flask Playlist](https://youtube.com/playlist?list=PLF2JzgCW6-YY_TZCmBrbOpgx5pSNBD0_L)
+2. [ Flask Playlist](https://youtube.com/playlist?list=PLF2JzgCW6-YY_TZCmBrbOpgx5pSNBD0_L)
 
 #### Spring
 
@@ -118,4 +134,3 @@ You need to learn JavaScript first \(using the path given above\)
 #### Ruby on Rails
 [Beginner's Guide](https://revelry.co/rails-beginners-guide/)
 [Ruby on Rails Crash Course](https://youtu.be/fmyvWz5TUWg)
-
