@@ -30,9 +30,6 @@ Having learned python, learn and implement various ML algorithms from scratch in
 * SVM: [Article](https://medium.com/machine-learning-101/chapter-2-svm-support-vector-machine-theory-f0812effc72)
 * Neural Networks: [Article](https://towardsdatascience.com/how-to-build-your-own-neural-network-from-scratch-in-python-68998a08e4f6)
 * k-Means Clustering: [Article](https://www.datascience.com/blog/k-means-clustering)
-
-The following algorithms are not covered in the Machine Learning course on Coursera; but are important, nonetheless.
-
 * KNN \(K-Nearest Neighbours\): [Article](https://www.analyticsvidhya.com/blog/2018/03/introduction-k-neighbours-algorithm-clustering/)
 * Decision Trees: [Article](https://towardsdatascience.com/decision-trees-in-machine-learning-641b9c4e8052)
 * Naive Bayes: [Article](https://towardsdatascience.com/naive-bayes-in-machine-learning-f49cc8f831b4)
