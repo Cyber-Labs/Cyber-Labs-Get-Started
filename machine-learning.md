@@ -4,20 +4,21 @@ One of the fastest growing technologies of 21st century, machine learning finds 
 
 ## Start here
 
-* Start with [Machine Learning](https://www.coursera.org/learn/machine-learning) course on Coursera by Stanford University. 
+* Start with [Machine Learning Specialization](https://in.coursera.org/specializations/machine-learning-introduction#courses) on Coursera by DeepLearning.AI and Stanford University. 
 
-  Instructed by Andrew Ng, this course covers all the basics you need to get off in the field. Based on Stanford's CS229 course.
+  Instructed by Andrew Ng, this 3-course specialization covers all the basics you need to get off in the field.
 
 ## Learn Python for Machine Learning
 
-The course mentioned above uses Matlab as its primary programming language. However, Python is widely preferred language in the real world applications. Now that you have sufficient knowledge about machine learning, get down to implementing the ML algorithms and do some toy projects using Python this time.
+Python is the preferred language in the real world applications of Machine Learning. Now that you have sufficient knowledge about machine learning, get down to implementing the ML algorithms and do some toy projects using Python.
 
 * Learn Python here: [Lectures by Sentdex](https://pythonprogramming.net/)
+* You can also refer: [W3Schools Python Tutorial](https://www.w3schools.com/python/)
 
 To implement the machine learning algorithms in Python, learn to use the following python modules:
 
-* Numpy and Pandas: Used for advanced matrix manipulation and linear algebra. [Course](https://www.udacity.com/course/intro-to-data-analysis--ud170)
-* Matplotlib: Used for visualization, plotting and drawing stuff. [Introductory course](https://www.datacamp.com/community/tutorials/matplotlib-tutorial-python) \| [Reference](https://www.labri.fr/perso/nrougier/teaching/matplotlib/)
+* NumPy and Pandas: Used for advanced matrix manipulation and linear algebra. [Course](https://www.udacity.com/course/intro-to-data-analysis--ud170) \| [NumPy Tutorial](https://www.w3schools.com/python/numpy/default.asp) \| [Pandas Tutorial](https://www.w3schools.com/python/pandas/default.asp)
+* Matplotlib: Used for visualization, plotting and drawing stuff. [Introductory course](https://www.datacamp.com/community/tutorials/matplotlib-tutorial-python) \| [Reference](https://www.labri.fr/perso/nrougier/teaching/matplotlib/) \| [Tutorial](https://www.w3schools.com/python/matplotlib_intro.asp)
 
 ## Common ML Algorithms
 
