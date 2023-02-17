@@ -1,31 +1,21 @@
 # Android Development
 
-## Path-1
+## RoadMap
 
-### Android App Development Specialization \(Coursera\)
+### Beginner [Get Started]
 
-* **Java** - [Course on Coursera](https://www.coursera.org/learn/java-for-android)
-* **Android App Components - Intents, Activities, and Broadcast Receivers** - [Course on Coursera](https://www.coursera.org/learn/androidapps)
-* **Android App Components - Services, Local IPC, and Content Providers** - [Course on Coursera](https://www.coursera.org/learn/androidapps-2)
-* **Engineering Maintainable Android Apps** - [Course on Coursera](https://www.coursera.org/learn/engineeringandroidapps)
-* **Capstone MOOC for "Android App Development"** - [Course on Coursera](https://www.coursera.org/learn/aadcapstone)
+* **Android developers course** - [Follow Link](https://developer.android.com/courses/android-basics-kotlin/course)
+* **Firebase Authentication** - [Follow Link](https://firebase.google.com/docs/auth/android/firebaseui)
+* **Firebase Cloud** - [Follow Link](https://firebase.google.com/docs/storage)
+* **RecyclerView** - [Follow Link]( https://youtu.be/oDfl-xLXiac )
+* **Full playlist on RecyclerView-** - [Follow Link](https://youtube.com/playlist?list=PLQ9S01mirRdVvez1P38ksV8kGI8oSsMpL)
+* * **Retrofit-** - [Follow Link](https://youtu.be/UIOq0Z8vpkI)
 
-## Path-2
+### Intermediate [Concept Building]
 
-### Beginner
-
-* **Java Programming Basics** - [Course on Udacity](https://in.udacity.com/course/java-programming-basics--ud282)
-* **Android Basics: User Input by Google** - [Course on Udacity](https://in.udacity.com/course/android-basics-user-input--ud836)
-* **Android Basics: Multiscreen Apps by Google** - [Course on Udacity](https://in.udacity.com/course/android-basics-multiscreen-apps--ud839)
-* **Android Basics: Data Storage by Google** - [Course on Udacity](https://in.udacity.com/course/android-basics-data-storage--ud845)
-* **Android Basics: Networking by Google** - [Course on Udacity](https://in.udacity.com/course/android-basics-networking--ud843)
-
-### Intermediate
-
-* **Object Oriented Programming in Java** - [Course on Udacity](https://in.udacity.com/course/object-oriented-programming-in-java--ud283)
-* **Java Tutorials by Derek Banas** - [Java Video Tutorial](https://www.youtube.com/playlist?list=PLE7E8B7F4856C9B19)
+* **Kotlin Tutorials [ Can directly Refer this instead of Kotlin Documentation ]** - [Follow Link](https://play.kotlinlang.org/byExample/01_introduction/01_Hello%20world)
+* **Kotlin Documentation [ Refer Basic & Concept Section ]** - [Follow Link](https://kotlinlang.org/docs/getting-started.html)
 * **Developing Android Apps by Google** - [Course on Udacity](https://in.udacity.com/course/new-android-fundamentals--ud851)
-* **Firebase in a Weekend: Android by Google** - [Course on Udacity](https://in.udacity.com/course/firebase-in-a-weekend-by-google-android--ud0352)
 * **Material Design for Android Developers by Google** - [Course on Udacity](https://in.udacity.com/course/material-design-for-android-developers--ud862)
 
 ### Advanced
@@ -36,12 +26,9 @@
 
 ## Other Resources
 
-* [Androidhive - Tutorials](https://www.androidhive.info/)
-* [AndroidPub - Tutorials](https://android.jlelse.eu/)
-* [The complete Android N developer Course-Udemy](https://www.udemy.com/complete-android-n-developer-course/) [The complete Android N developer Course-Google Drive link](https://drive.google.com/uc?id=0B5cFO_fEeE4bekpUZVBLV011TG8&export=download)
-* [Android Developers - Youtube](https://www.youtube.com/user/androiddevelopers)
-* [Organizing Code: Java Style guide](http://google.github.io/styleguide/javaguide.html)
-* [Best practices in Android development](https://github.com/futurice/android-best-practices)
-* [A great arsenal of Android libraries, tools and apps](https://android-arsenal.com/)
-* [7 Steps To Room](https://medium.com/androiddevelopers/7-steps-to-room-27a5fe5f99b2)
+* [Zain Farhan - YouTube Course](https://www.youtube.com/watch?v=bTjOfVePvFw&list=PL6Fr59UplGvL7q7P3Hg6nYzS45gld-CCI)
+* [Simplified Coding - YouTube Course](https://www.youtube.com/@SimplifiedCoding/featured)
+* [Philipp Lackner - YouTube Course](https://www.youtube.com/@PhilippLackner/videos) 
+* [The complete Android N developer Course-Google Drive link](https://drive.google.com/uc?id=0B5cFO_fEeE4bekpUZVBLV011TG8&export=download)
+
 
