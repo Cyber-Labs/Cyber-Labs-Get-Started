@@ -25,14 +25,15 @@ To implement the machine learning algorithms in Python, learn to use the followi
 
 Having learned python, learn and implement various ML algorithms from scratch in Python to get used to the modules mentioned above. Given below are brief overviews of most common ML algorithms.
 
+* [mlcourse.ai](https://mlcourse.ai/book/index.html): An open self-paced machine learning course covering topics from classical ML.
 * Linear Regression: [Article](https://towardsdatascience.com/linear-regression-detailed-view-ea73175f6e86) \| [Lecture](https://youtu.be/kHwlB_j7Hkc)
 * Logistic Regression: [Article](https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc) \| [Lecture](https://www.youtube.com/watch?v=-la3q9d7AKQ)
-* SVM: [Article](https://medium.com/machine-learning-101/chapter-2-svm-support-vector-machine-theory-f0812effc72)
+* SVM: [Article](https://medium.com/@ashwanibhardwajcodevita16/from-zero-to-hero-in-depth-support-vector-machine-264931a1e135)
 * Neural Networks: [Article](https://towardsdatascience.com/how-to-build-your-own-neural-network-from-scratch-in-python-68998a08e4f6)
-* k-Means Clustering: [Article](https://www.datascience.com/blog/k-means-clustering)
-* KNN \(K-Nearest Neighbours\): [Article](https://www.analyticsvidhya.com/blog/2018/03/introduction-k-neighbours-algorithm-clustering/)
-* Decision Trees: [Article](https://towardsdatascience.com/decision-trees-in-machine-learning-641b9c4e8052)
-* Naive Bayes: [Article](https://towardsdatascience.com/naive-bayes-in-machine-learning-f49cc8f831b4)
+* k-Means Clustering: [Article](https://towardsdatascience.com/understanding-k-means-k-means-and-k-medoids-clustering-algorithms-ad9c9fbf47ca)
+* KNN \(K-Nearest Neighbours\): [Article](https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761)
+* Decision Trees: [Article](https://www.analyticsvidhya.com/blog/2020/06/4-ways-split-decision-tree/)
+* Naive Bayes: [Article](https://shuzhanfan.github.io/2018/06/understanding-mathematics-behind-naive-bayes/)
 
 ## Learn high-level frameworks
 
@@ -73,8 +74,6 @@ Almost a requirement for any subfield of AI. Master it first.
 
 * **Fast.ai's** [Deep Learning for Coders](http://course.fast.ai/) course gets you down to implementing deep learning applications using TensorFlow and their own `fast.ai` library.
     This course is instructed by [Jeremy Howard](https://www.kaggle.com/jhoward), a Kaggle grandmaster and past Kaggle \#1\). You will get hands-on experience by implementing many deep learning challenges on Kaggle in the course.
-
-* [mlcourse.ai](https://mlcourse.ai/book/index.html): An open self-paced machine learning course covering topics from classical ML.
 
 ### Natural Language Processing
 
