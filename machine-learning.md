@@ -70,6 +70,8 @@ Almost a requirement for any subfield of AI. Master it first.
 
 * Convolutional Neural Networks Course: [Stanford Course 231n](http://cs231n.stanford.edu) is a quite popular course, and has a lot of useful content. You will chiefly learn convolutional neural networks \(as the course name suggests\), but the course covers sequence models and generative models as well.
 
+* [3Blue1Brown](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) is a YouTube playlist which will help with intuitive understanding and visualization.
+
 * A very good [Book on neural networks](http://neuralnetworksanddeeplearning.com/).
 
 * **Fast.ai's** [Deep Learning for Coders](http://course.fast.ai/) course gets you down to implementing deep learning applications using TensorFlow and their own `fast.ai` library.
@@ -83,6 +85,8 @@ The field of AI specializing in understanding text and voice data. Used in chatb
 
 * Deep Learning for NLP: [Stanford CS224N](https://web.stanford.edu/class/cs224n/). A Stanford course on Natural Language Processing. [Lectures](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
 
+* [Blog](https://jalammar.github.io/) by Jay Alammar.
+
 * [Hugging Face Library](https://huggingface.co/): Widely used library for NLP applications.
 
 ### Reinforcement Learning
@@ -92,6 +96,8 @@ Reinforcement Learning is a rapidly growing field of AI, that allows a system to
 * [RL course](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ) by David Silver. The basic course for getting started with reinforcement learning. Widely acknowledged by the community.
 
 * [CS229 Machine Learning by Stanford University \(Lectures 16-20\)](https://www.youtube.com/playlist?list=PLIHOR_SLeQd1UH2y0gOdM7xNyqLJl2DHO): The lectures 16-20 of CS229 cover reinforcement learning, instructed by Andrew Ng.
+
+* [Deep RL Course](https://huggingface.co/deep-rl-course/unit0/introduction?fw=pt) by Hugging Face. The course contains theory part, hands-on experience and challenges.
 
 * Reinforcement Learning: An Introduction \(1st Edition, 1998\), book by Richard Sutton and Andrew Barto: [Book](http://incompleteideas.net/book/ebook/the-book.html). This is the bible of reinforcement learning literature. Contains extensive information of various RL algorithms. Source code for the book is available [here](http://incompleteideas.net/book/code/code.html).
 
