@@ -70,7 +70,7 @@ Almost a requirement for any subfield of AI. Master it first.
 
 * Convolutional Neural Networks Course: [Stanford Course 231n](http://cs231n.stanford.edu) is a quite popular course, and has a lot of useful content. You will chiefly learn convolutional neural networks \(as the course name suggests\), but the course covers sequence models and generative models as well.
 
-* [3Blue1Brown](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) is a YouTube playlist which will help with intuitive understanding and visualization.
+* [3Blue1Brown](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) has a YouTube playlist which will help with intuitive understanding and visualization.
 
 * A very good [Book on neural networks](http://neuralnetworksanddeeplearning.com/).
 
