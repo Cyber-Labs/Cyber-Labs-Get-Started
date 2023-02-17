@@ -1,134 +1,192 @@
-# Introduction to Ethical Hacking/Pentesting
+# Introduction to Ethical Hacking
 
-**Follow these steps to get started:** 1. Install linux on your system. **Kali Linux** recommended. Download `iso` from [here](https://www.kali.org/downloads/). 2. Learn basic linux commands. 3. Learn the basics of some programming languages \(`HTML/CSS`, `JS`, `PHP`, `SQL`, `Python`\) For basics and in-short tutorials, watch [Derek's videos on YouTube](https://www.youtube.com/playlist?list=PLGLfVvz_LVvSX7fVd4OUFp_ODd86H0ZIY)
+## Follow these steps to get started:
+1. Install linux on your system. Kali Linux is recommended. 
+3. Learn basic linux commands.
+4. Learn the basics of some programming languages (`HTML/CSS`, `JS`, `PHP`, `SQL`, `Python`) 
+    For basics and in-short tutorials of programming languages, watch [Derek's videos on YouTube](https://www.youtube.com/playlist?list=PLGLfVvz_LVvSX7fVd4OUFp_ODd86H0ZIY)
+    
+Frequently Used Linux commands:
 
-1. Learn these essential concepts:
-   * Methods \(mainly `GET` and `POST` methods\)
-   * IP \(**I**nternet **P**rotocol\)
-   * DNS \(**D**omain **N**ame **S**ystem\)
-   * SSH \(**S**ecure **Sh**ell\)
-   * Telnet \(**T**eletype **N**etwork\)
-   * Port
+    cat, ls, vim, ping, file, find, du, pwd, env, chmod, wget, cron, telnet, gzip, bzip2, tar, base64, grep, nc, curl, strings, whatweb etc.
 
-### How does the internet work?
+## Steps for Kali Installation:   
+#### **WSL (Windows Subsystem for Linux)**:
+> For Windows 10/11
 
+* [Official Microsoft Guide](https://docs.microsoft.com/en-us/windows/wsl/install)
+
+If `wsl --install` doesn't work then refer the manual steps
+* [Microsoft Guide Manual](https://docs.microsoft.com/en-us/windows/wsl/install-manual)
+
+Reference Video:
+
+* This video by NetworkChuck guides you through the manual steps [Install WSL in 5 minutes](https://www.youtube.com/watch?v=AfVH54edAHU)
+* For installation of GUI (Graphical User Interface), kex, refer to the following video [Graphical Install for WSL](https://www.youtube.com/watch?v=dgdOILL1184 )
+
+#### **Virtual Box / VMware**
+>For those of you on Windows AMD, WSL has some stability issues. So, we recommend using Virtual Machines
+
+* [Kali Linux in Virtual Box](https://www.youtube.com/watch?v=V_Payl5FlgQ/nKali) 
+* [Linux on VMWARE](https://www.youtube.com/watch?v=UbGYDDnFAEg/n )
+    
+#### **Mac users**
+>For mac users, you already have a terminal.
+>For some tools you might need Kali Linux (not any time soon).
+
+* [Virtual Box method](https://www.youtube.com/watch?v=kGQI9IJ_ewU)
+* [Macbook M1]( https://www.youtube.com/watch?v=uBzKDF67eWY )
+    
+    
+## Learn these Essential Concepts:
+* HTTP methods (mainly `GET` and `POST` methods)
+* IP (**I**nternet **P**rotocol)
+* DNS (**D**omain **N**ame **S**ystem)
+* SSH (**S**ecure **Sh**ell)
+* Telnet (**T**eletype **N**etwork)
+* Ports
+
+#### How does the internet work?
 * [Hacker101 - The Web In Depth](https://www.youtube.com/watch?v=DWBUQiaN5ZM)
 * [IP Addresses and the Internet - Computerphile](https://www.youtube.com/watch?v=L6bDA5FK6gs)
 
-## Recommended learning
+## Recommended Learning:
 
-* Learn **Python**, as many tools/scripts are made out of it.
-* Learn to use **Github**, as it is like a best friend to any hacker.
-* Learn about [OWASP](https://www.owasp.org/) \(Open Web Application Security Project\) community and its list of [top 10 vulnerabilities](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project).
-* learn basics of command line editors Vim and GNU nano.
-* Learn some frequently used commands: 
+* Learn **Python**, as many tools/scripts are coded in it.
+* Learn to use **Github**.
+* Learn about [OWASP](https://owasp.org/) (Open Web Application Security Project) community and it's list of [top 10 vulnerabilities](https://owasp.org/www-project-top-ten/).
+* Learn basics of command line editors vim and GNU nano.
+   
 
-  ```bash
-  cat, ls, vim, ping, file, find, du, pwd, env, chmod, wget, cron, telnet, gzip, bzip2, tar, base64, grep, nc, curl, strings, whatweb, wildcards and many more...
-  ```
+## Cyber Security Challenges/Practice:
 
-## Cyber Security Challenges/Practice
+* Solve basic CTF problems from [Bandit](https://overthewire.org/wargames/bandit/) and [Natas](https://overthewire.org/wargames/natas/) on **OverTheWire**.
+* After completing **Bandit** and **Natas**, move on to [Hack this site](https://www.hackthissite.org/)(contains challenges covering the basics and JS)
+* Start participating in live CTFs on [CTFtime](https://ctftime.org/). This will boost your problem solving skills.
+* Try solving CTF challenges from [picoCTF](https://picoctf.com/) and [CTFlearn](https://ctflearn.com/).
+* Solve previous Challenges of CTF and read Writeups.
 
-* Solve basic CTF problems from [Bandit](http://overthewire.org/wargames/bandit/) and [Natas](http://overthewire.org/wargames/natas/) on **OverTheWire**.
-* After completing **Bandit** and **Natas**, move on to [Hack this site](https://www.hackthissite.org/)\(contains challenges covering the basics and JS\)
-* Start doing challenges from [backdoor by SDSLabs](https://backdoor.sdslabs.co/), try solving previous CTF challenges from [**picoCTF**](https://picoctf.com/).
-* Start participating in CTFs on [CTFtime](https://ctftime.org/). This will boost your problem solving skills.
-* Solve previous questions of CTF and read Writeups.
+**Note**: **CTFtime** is the platform where you can get every CTF-related information.
 
-## Branches of Cyber Security:
 
-1. Web security
-2. Network security
-3. Forensics
-4. Application Security
-5. Steganography
-6. Mobile Pentest,
+## Advanced Learning:
 
-   and so on..
-
-## Advanced Learning
-
-* Learn creating ssh public key and connecting to ssh server: [pico2017 keyz](https://www.youtube.com/watch?v=3CN65ccfllU)
-* Master some of the most important tools of Kali: 
-  * Burpsuite
-  * Webscrab
-  * Metasploit
-  * Nmap
-  * Wireshark
-* Learn using some browser extentions helpful in solving CTF problems:
-  * Hackbar
-  * Cookie-editor
-  * Open referer control
+*  Learn creating ssh public key and connecting to ssh server: [pico2017 keyz](https://www.youtube.com/watch?v=3CN65ccfllU)
+*  Master some of the most important tools of Kali: 
+    * Burpsuite
+    * Wireshark
+    * Nmap
+    * Metasploit
+    * Webscarab
+* Learn using some browser extensions helpful in solving CTF problems:
+    * Hackbar
+    * Cookie-editor
+    * Open referer control
 * Learn about various vulnerabilities: 
+```XSS, HTMLi, SQLi, Parameter Tampering, Host Header Injection, URL Redirection, LFI, RFI, SSTI, CCRF, SSRF, Subdomain Takeover, CMDi, XMLI etc.```
+    
+    
+## Branches of Cyber Security:
+* Web Security
+* Network Security
+* Forensics
+* Application Security
+* Steganography
+* Cryptography
+* Mobile Security
 
-  ```bash
-  XSS, Htmli, Sqli, Parameter Tampering, Host Header Injection, URL Redirection, LFI, RFI, CCRF, SSRF, Subdomain Takeover, CMDi, XMLI, etc.
-  ```
 
-## Useful Books:
+## Pentesting:
+Quick guide for introduction: https://www.tutorialspoint.com/penetration_testing/penetration_testing_quick_guide.htm
 
+#### Popular websites for vulnerable machines:
+* [TryHackMe](https://tryhackme.com/)
+* [HackTheBox](https://www.hackthebox.eu/)
+* [VulnHub](https://www.vulnhub.com/)
+
+#### Useful tools:
+* [nmap](https://medium.com/dsckiit/ethical-hacking-101-getting-started-with-nmap-cb51757a0a85)
+* [rustscan](https://overide.medium.com/rustscan-fcbdb93e17c9)
+* [feroxbuster](https://www.geeksforgeeks.org/feroxbuster-recursive-content-discovery-tool-in-kali-linux/)
+* [hydra](https://www.freecodecamp.org/news/how-to-use-hydra-pentesting-tutorial/)
+* [Reverse Shells](https://www.revshells.com/)
+* [GTFOBins](https://gtfobins.github.io/)
+
+## Resources:
+
+### Useful Books:
 * Web Application Hackers' Handbook
 * Web Hacking 101
 
-### links
-
+### Links:
 * [XSS](https://www.youtube.com/watch?v=L5l9lSnNMxg)
 * [SQLi](https://www.youtube.com/watch?v=_jKylhJtPmI)
 
-## Some sites to practice Web Vulnerabilities
+### Some sites to practice Web Vulnerabilities:
 
-1. [http://testphp.vulnweb.com/](http://testphp.vulnweb.com/)
-2. [http://hackthis.co.uk](http://hackthis.co.uk) \(sqli\)
-3. Damn Vulnerable Web Application [DVWA](https://github.com/Cyber-Labs/Cyber-Labs-Get-Started/tree/c32166e60165b35e74f6d7a1cd04ccfe6cc161de/www.dvwa.co.uk)
-4. [Owasp mutillidae 2](https://www.owasp.org/index.php/OWASP_Mutillidae_2_Project) \(offline\)
+* http://testphp.vulnweb.com/
+* http://hackthis.co.uk (SQLi)
 
-### For Advanced vulnerable machines:
 
-1. [https://www.hackthebox.eu/](https://www.hackthebox.eu/)
-2. [https://www.vulnhub.com/](https://www.vulnhub.com/)
+### Intro to Cryptography:
+* learn with practicals: [CryptoHack](https://cryptohack.org/)
+* For advanced crypto go to [coursera](https://www.coursera.org/)
 
-## some useful softwares for:
+### Learn basic regex:
+* (https://regexone.com/)
+* (https://regexr.com/)
 
-1. Steganography: `zteg, stegsolve, jstego, hex-editor`
-2. Reversing: `gdb,edb-debug, gdb-peda, hex-editor`
-3. Password cracking: `john the ripper, crunch, medusa`
-4. SQLi: `sqlmap`
+### Learn bash scripting:
+* (https://devhints.io/bash)
+* (https://www.shellscript.sh/)
 
-## TO learn cryptography:
 
-* Best online tool for crypto:cryptii.com
-* For advanced crypto then go for [coursera](https://www.coursera.org/)
+### Some important resources to learn hacking:
 
-## For networking some basic terminologies to learn are:
+* (https://www.cybrary.it/)
+* (https://www.hacker101.com/)
+* (http://virustotal.com): Site used for finding all subdomains of a site, checking virus, and many more.
 
-`HTTP,Https FTP, DNS, SMTP ,ports,MAC Address,IPv4,IPv6,Public v Private IP,OSI model,Routers and switches.`
+### Books for reversing/binary exploitation:
+* Hacking: The Art of Exploitation
+* The Shellcoders Handbook
 
-## Learn basic regex
+### Some useful youtube channels:
+* [Computerphile](https://www.youtube.com/user/Computerphile)
+* [David Bombal](https://www.youtube.com/@davidbombal)
+* [JohnHammond](https://www.youtube.com/@_JohnHammond)
+* [DEFCONConference](https://www.youtube.com/user/DEFCONConference)
+* [NahamSec](https://www.youtube.com/@NahamSec)
+* [IppSec](https://www.youtube.com/@ippsec)
+* [BlackPerl](https://www.youtube.com/@BlackPerl)
+* [LiveOverflow](https://www.youtube.com/@LiveOverflow)
 
-1. \([https://regexone.com/](https://regexone.com/)\)
-2. \([https://regexr.com/](https://regexr.com/)\)
 
-## learn bash scripting:
+### Bug Bounty Programs:
+* [Bugcrowd](https://www.bugcrowd.com/)
+* [Hackerone](https://www.hackerone.com/)
 
-1. \([https://devhints.io/bash](https://devhints.io/bash)\)
-2. \([https://www.shellscript.sh/](https://www.shellscript.sh/)\)
 
-## Then start participating in bug bounty programs on [Bugcrowd](https://www.bugcrowd.com/), [Hackerone](https://www.hackerone.com/), etc
+### Useful Tools:
+* **Crypto**: [```dCode```](https://dcode.fr/en), [```CyberChef```](https://gchq.github.io/CyberChef/), [```cryptii```](https://cryptii.com/)
+* **Steganography**: ```zteg```, ```stegsolve```, ```binwalk```, ```hex-editor```, [```Aperi'Solve```](https://www.aperisolve.com), [```StegOnline```](https://stegonline.georgeom.net/upload)
+* **Reversing**: ```gdb```, ```ghidra```, ```edb-debug```, [```dogbolt```](https://dogbolt.org)
+* **Password cracking**: ```john the ripper```, [```Crackstation```](https://crackstation.net), ```hashcat```, ```crunch```, ```medusa```
+* **SQLi**: ```sqlmap```
+* **Forensics**: ```Volatility```, ```Sleuthkit```
 
-## Some important resource to learn hacking:
 
-* \([https://www.cybrary.it/](https://www.cybrary.it/)\)
-* \([https://www.hacker101.com/](https://www.hacker101.com/)\)
-* \([http://virustotal.com](http://virustotal.com)\): Site used for finding all subdomains of a site, checking virus, and many more.
+### For networking some basic terminologies to learn are:
+```HTTP, HTTPS, FTP, DNS, SMTP, ports, MAC Address, IPv4, IPv6, Public v Private IP, OSI model, Routers and switches.```
 
-## Books for reversing/binary exploitation:
 
-1. Hacking: The Art of Exploitation
-2. The Shellcoders Handbook
 
-## Some useful youtube channels:
+## Workshop Resources:
 
-* \([https://www.youtube.com/user/Computerphile](https://www.youtube.com/user/Computerphile)\)
-* \([https://www.youtube.com/user/DEFCONConference](https://www.youtube.com/user/DEFCONConference)\)
-* \([https://www.youtube.com/channel/UCsgzmECky2Q9lQMWzDwMhYw](https://www.youtube.com/channel/UCsgzmECky2Q9lQMWzDwMhYw) \)
-
+* [Linux Fundementals](https://docs.google.com/presentation/d/13w8z5drUQPhANX8cFMwD-ReOcU6r4VL7WNs3bAGQImI/edit#slide=id.p)
+* [Google Dorking](https://docs.google.com/presentation/d/1Nf1YHu169wWqM2VVrkyjrqlTqZal_dv8/edit?usp=share_link&ouid=114246803015473717147&rtpof=true&sd=true)
+* [Steganography](https://docs.google.com/presentation/d/1zjASS9Uee1fG4T9xHJQXM9EjcbENY7bw/edit?usp=share_link&ouid=114246803015473717147&rtpof=true&sd=true)
+* [Windows Password Bypass](https://drive.google.com/file/d/12eqD3jnP_PEz_qThwBUHH8qbfuUuPEW6/view?usp=share_link)
+* [File Deletion and File System](https://docs.google.com/presentation/d/10cOwlPdwA1fzGpN4c5zB4660Eu7zqNA_K1xXT1-eh84/edit?usp=sharing)
+* [VLC](https://docs.google.com/presentation/d/1MlNSYJnpmdDFQQH-WEOcbjGB9unqyzT8/edit?usp=share_link&ouid=114246803015473717147&rtpof=true&sd=true)
+* [CTF](https://docs.google.com/presentation/d/19pPpIJafaG8FP0QxHc_UrJl_Th3VANFBQus60H2bdKg/edit#slide=id.p)
