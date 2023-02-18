@@ -25,14 +25,15 @@ To implement the machine learning algorithms in Python, learn to use the followi
 
 Having learned python, learn and implement various ML algorithms from scratch in Python to get used to the modules mentioned above. Given below are brief overviews of most common ML algorithms.
 
+* [mlcourse.ai](https://mlcourse.ai/book/index.html): An open self-paced machine learning course covering topics from classical ML.
 * Linear Regression: [Article](https://towardsdatascience.com/linear-regression-detailed-view-ea73175f6e86) \| [Lecture](https://youtu.be/kHwlB_j7Hkc)
 * Logistic Regression: [Article](https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc) \| [Lecture](https://www.youtube.com/watch?v=-la3q9d7AKQ)
-* SVM: [Article](https://medium.com/machine-learning-101/chapter-2-svm-support-vector-machine-theory-f0812effc72)
+* SVM: [Article](https://medium.com/@ashwanibhardwajcodevita16/from-zero-to-hero-in-depth-support-vector-machine-264931a1e135)
 * Neural Networks: [Article](https://towardsdatascience.com/how-to-build-your-own-neural-network-from-scratch-in-python-68998a08e4f6)
-* k-Means Clustering: [Article](https://www.datascience.com/blog/k-means-clustering)
-* KNN \(K-Nearest Neighbours\): [Article](https://www.analyticsvidhya.com/blog/2018/03/introduction-k-neighbours-algorithm-clustering/)
-* Decision Trees: [Article](https://towardsdatascience.com/decision-trees-in-machine-learning-641b9c4e8052)
-* Naive Bayes: [Article](https://towardsdatascience.com/naive-bayes-in-machine-learning-f49cc8f831b4)
+* k-Means Clustering: [Article](https://towardsdatascience.com/understanding-k-means-k-means-and-k-medoids-clustering-algorithms-ad9c9fbf47ca)
+* KNN \(K-Nearest Neighbours\): [Article](https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761)
+* Decision Trees: [Article](https://www.analyticsvidhya.com/blog/2020/06/4-ways-split-decision-tree/)
+* Naive Bayes: [Article](https://shuzhanfan.github.io/2018/06/understanding-mathematics-behind-naive-bayes/)
 
 ## Learn high-level frameworks
 
@@ -69,12 +70,12 @@ Almost a requirement for any subfield of AI. Master it first.
 
 * Convolutional Neural Networks Course: [Stanford Course 231n](http://cs231n.stanford.edu) is a quite popular course, and has a lot of useful content. You will chiefly learn convolutional neural networks \(as the course name suggests\), but the course covers sequence models and generative models as well.
 
+* [3Blue1Brown](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) has a YouTube playlist which will help with intuitive understanding and visualization.
+
 * A very good [Book on neural networks](http://neuralnetworksanddeeplearning.com/).
 
 * **Fast.ai's** [Deep Learning for Coders](http://course.fast.ai/) course gets you down to implementing deep learning applications using TensorFlow and their own `fast.ai` library.
     This course is instructed by [Jeremy Howard](https://www.kaggle.com/jhoward), a Kaggle grandmaster and past Kaggle \#1\). You will get hands-on experience by implementing many deep learning challenges on Kaggle in the course.
-
-* [mlcourse.ai](https://mlcourse.ai/book/index.html): An open self-paced machine learning course covering topics from classical ML.
 
 ### Natural Language Processing
 
@@ -83,6 +84,8 @@ The field of AI specializing in understanding text and voice data. Used in chatb
 * Fifth course of Deep Learning specialization: [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models?specialization=deep-learning). Like the rest of the courses in the specialization, this one's a good course for getting started with NLP.
 
 * Deep Learning for NLP: [Stanford CS224N](https://web.stanford.edu/class/cs224n/). A Stanford course on Natural Language Processing. [Lectures](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
+
+* [Blog](https://jalammar.github.io/) by Jay Alammar.
 
 * [Hugging Face Library](https://huggingface.co/): Widely used library for NLP applications.
 
@@ -93,6 +96,8 @@ Reinforcement Learning is a rapidly growing field of AI, that allows a system to
 * [RL course](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ) by David Silver. The basic course for getting started with reinforcement learning. Widely acknowledged by the community.
 
 * [CS229 Machine Learning by Stanford University \(Lectures 16-20\)](https://www.youtube.com/playlist?list=PLIHOR_SLeQd1UH2y0gOdM7xNyqLJl2DHO): The lectures 16-20 of CS229 cover reinforcement learning, instructed by Andrew Ng.
+
+* [Deep RL Course](https://huggingface.co/deep-rl-course/unit0/introduction?fw=pt) by Hugging Face. The course contains theory part, hands-on experience and challenges.
 
 * Reinforcement Learning: An Introduction \(1st Edition, 1998\), book by Richard Sutton and Andrew Barto: [Book](http://incompleteideas.net/book/ebook/the-book.html). This is the bible of reinforcement learning literature. Contains extensive information of various RL algorithms. Source code for the book is available [here](http://incompleteideas.net/book/code/code.html).
 
