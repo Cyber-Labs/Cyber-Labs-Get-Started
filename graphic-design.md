@@ -26,10 +26,10 @@
 
 ## Design Aspects
 
-**Typography** https://www.youtube.com/watch?v=sByzHoiYFX0&list=PLpQQipWcxwt8vVzFpoJS5TtCh8Ktke9TH
-**Colour** https://www.youtube.com/watch?v=_2LLXnUdUIc
-**Material Design Case Studies** https://material.io/design/introduction#theming
-**Flow Examples for new users** https://whatfix.com/blog/user-onboarding-examples/
-**Recent UI/UX Trends** https://designlab.com/blog/ux-ui-design-trends-to-watch-for-in-2023/
+**Typography** https://www.youtube.com/watch?v=sByzHoiYFX0&list=PLpQQipWcxwt8vVzFpoJS5TtCh8Ktke9TH          
+**Colour** https://www.youtube.com/watch?v=_2LLXnUdUIc        
+**Material Design Case Studies** https://material.io/design/introduction#theming        
+**Flow Examples for new users** https://whatfix.com/blog/user-onboarding-examples/        
+**Recent UI/UX Trends** https://designlab.com/blog/ux-ui-design-trends-to-watch-for-in-2023/        
 **Carbon Design System** https://carbondesignsystem.com/
 
