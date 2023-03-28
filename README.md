@@ -1,5 +1,5 @@
 ---
-description: A collection of useful resources to help you get started
+Description: A collection of useful resources to help you get started
 ---
 
 # [Cyber Labs - Getting Started](https://cyberlabs.gitbook.io/getting-started/)
@@ -28,6 +28,12 @@ description: A collection of useful resources to help you get started
 * [**Cyber Security/Hacking**](security.md)
   * [Introduction to Ethical Hacking/Pentesting](security.md#introduction-to-ethical-hackingpentesting)
     * [How Does The Internet Work](security.md#how-does-the-internet-work)
+* [**Blockchain**](blockchain.md)
+  * [Introduction](blockchain.md#introduction)
+  * [Bitcoin](blockchain.md#bitcoin)
+  * [Ethereum](blockchain.md#ethereum)
+  * [Transitioning to Web 3.0](blockchain.md#transitioning-to-web-30)
+  * [Advanced concepts of DeFi](blockchain.md#advanced-concepts-of-defi)
 * [**Competitive Programming**](./#competitive-programming)
   * [C++](./#c)
 * [**Hardware**](hardware.md)
