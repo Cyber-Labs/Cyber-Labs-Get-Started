@@ -135,6 +135,7 @@ Quick guide for introduction: https://www.tutorialspoint.com/penetration_testing
 ### Learn basic regex:
 * (https://regexone.com/)
 * (https://regexr.com/)
+* (https://extendsclass.com/regex-tester.html)
 
 ### Learn bash scripting:
 * (https://devhints.io/bash)
